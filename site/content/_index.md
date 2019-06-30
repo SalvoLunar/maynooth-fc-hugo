@@ -1,24 +1,33 @@
 ---
-title: Maynooth Football Club
+title: Maynooth Town Football Club
 subtitle: Kicking balls since 1969
 image: /img/34706981_1891653880897767_1043212642409250816_n.jpg
 blurb:
   heading: Welcome
   text: This is the website of the Maynooth Football Club...
 intro:
-  heading: What we offer
+  heading: Lorem Ipsum
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ultricies
+    blandit turpis, non eleifend sem faucibus eget. Nullam a ligula in ante
+    sollicitudin efficitur sit amet a ante. Ut maximus ultrices nibh. Vestibulum
+    pulvinar cursus nunc id blandit. Nam auctor nec arcu quis finibus. Nulla
+    ornare varius nunc, vitae pharetra massa luctus vitae. Ut eget mi facilisis,
+    volutpat felis at, euismod neque. Nam maximus neque leo, nec pellentesque
+    urna laoreet in. Praesent vitae velit et elit euismod sodales non ac libero.
+    Nam bibendum non nisi vestibulum cursus. Curabitur tempus in dui eu
+    suscipit. Nullam ut ante egestas, tincidunt dolor a, dictum turpis.
+    Phasellus sollicitudin odio eget magna imperdiet volutpat.
 products: []
 values:
   heading: Our values
   text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ultricies
+    blandit turpis, non eleifend sem faucibus eget. Nullam a ligula in ante
+    sollicitudin efficitur sit amet a ante. Ut maximus ultrices nibh. Vestibulum
+    pulvinar cursus nunc id blandit. Nam auctor nec arcu quis finibus. Nulla
+    ornare varius nunc, vitae pharetra massa luctus vitae. Ut eget mi facilisis,
+    volutpat felis at, euismod neque. Nam maximus neque leo, nec pellentesque
+    urna laoreet in.
 ---
 
