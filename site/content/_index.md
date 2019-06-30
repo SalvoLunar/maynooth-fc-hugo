@@ -3,12 +3,8 @@ title: Maynooth Football Club
 subtitle: Kicking balls since 1969
 image: /img/34706981_1891653880897767_1043212642409250816_n.jpg
 blurb:
-  heading: Why Kaldi?
-  text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Welcome
+  text: This is the website of the Maynooth Football Club...
 intro:
   heading: What we offer
   text: >-
