@@ -1,6 +1,6 @@
 ---
 title: Maynooth Football Club
-subtitle: Kicking Balls since 1969
+subtitle: Kicking balls since 1969
 image: /img/34706981_1891653880897767_1043212642409250816_n.jpg
 blurb:
   heading: Why Kaldi?
