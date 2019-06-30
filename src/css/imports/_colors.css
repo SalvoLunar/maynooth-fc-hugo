@@ -78,3 +78,7 @@
     box-shadow: var(--spacing-small) 0 0 var(--primary), -var(--spacing-small) 0 0 var(--primary);
   }
 }
+
+.bg-transparent-primary{
+  background-color: var(--primary-transparent);
+}
