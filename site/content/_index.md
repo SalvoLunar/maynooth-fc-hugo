@@ -1,10 +1,22 @@
 ---
 title: Maynooth Town Football Club
-subtitle: Kicking balls since 1969
+subtitle: Scoring big since 1969
 image: /img/34706981_1891653880897767_1043212642409250816_n.jpg
 blurb:
   heading: Welcome
-  text: This is the website of the Maynooth Football Club...
+  text: >-
+    This is the website of the Maynooth Football Club...
+
+    Nam sagittis, nisl a vulputate porta, turpis lectus commodo sapien, quis
+    tempor sapien quam vitae risus. Quisque interdum arcu quis semper fringilla.
+    Vivamus ut viverra lectus. Nullam dictum est ac suscipit suscipit. Curabitur
+    cursus lorem sed urna cursus hendrerit. Duis efficitur consequat fermentum.
+    Nulla feugiat efficitur nisl quis mollis. Nunc nulla dolor, vehicula et enim
+    ac, facilisis efficitur nulla. In sit amet urna sit amet dolor ultricies
+    consectetur sed eget elit. Nullam feugiat nulla gravida viverra eleifend.
+    Suspendisse a faucibus purus. Nam justo quam, lobortis id tellus ac,
+    vestibulum consectetur nulla. In viverra ac justo ac vestibulum. Phasellus
+    tincidunt sodales orci, et ultrices enim hendrerit quis.
 intro:
   heading: Lorem Ipsum
   text: >-
