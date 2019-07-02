@@ -13,7 +13,7 @@ description: >-
   magna vehicula, maximus ullamcorper sapien. Mauris vulputate eros in massa
   venenatis molestie. Suspendisse potenti. Class aptent taciti sociosqu ad
   litora torquent per conubia nostra, per inceptos himenaeos.
-image: /img/blog-flavor_wheel.jpg
+image: /img/34706981_1891653880897767_1043212642409250816_n.jpg
 ---
 Duis venenatis nibh sit amet mauris mollis sagittis. In ut tellus nec metus placerat vehicula id ac lectus. Aenean vehicula, sapien non eleifend mattis, urna quam tempus erat, sed consectetur mauris diam ac dui. Vivamus viverra velit et faucibus faucibus. 
 
