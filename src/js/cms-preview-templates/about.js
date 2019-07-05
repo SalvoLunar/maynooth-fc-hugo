@@ -1,5 +1,5 @@
 import React from "react";
-import { List } from 'immutable';
+import {List} from "immutable";
 
 import Jumbotron from "./components/jumbotron";
 
@@ -29,7 +29,7 @@ export default class AboutPreview extends React.Component {
       image = window.parent.location.protocol + "//" + window.parent.location.host + image;
     }
 
-    const entryValues = entry.getIn(["data", "about"]);
+    const entryValues = entry.getIn(["data", "values"]);
     const values = entryValues ? entryValues.toJS() : [];
 
     return <div>
