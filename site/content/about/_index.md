@@ -39,8 +39,13 @@ values:
       Maynooth Town F.C was founded in 1969 when two local teams, St. Mary's and
       Ballygoran, merged together to create MTFC. We began with 1 team and
       slowly but surely grew to 35 teams after 50 years! 
+
+
+      A big highlight from the last 50 years was when our Sunday Senior Team
+      made a remarkable comeback to win the FAI Intermediate Cup 4-1 in extra
+      time versus Firhouse Clover in 2018!
   - heading: Our Values
-    imageUrl: /img/37604956_1966484276748060_7450526506205315072_o.jpg
+    imageUrl: /img/download.jpeg
     text: >-
       At Maynooth Town F.C we value promoting sport through football and for
       everyone to show utmost respect for their managers, referees, officials
