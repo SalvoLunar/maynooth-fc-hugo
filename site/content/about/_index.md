@@ -1,21 +1,17 @@
 ---
 title: About
-image: /img/217959_408942552502248_1928950419_n.jpg
+image: /img/32390662_1859641730765649_9204859349124513792_o.jpg
 values:
   - heading: About Us
     imageUrl: /img/37604956_1966484276748060_7450526506205315072_o.jpg
     text: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ultricies
-      blandit turpis, non eleifend sem faucibus eget. Nullam a ligula in ante
-      sollicitudin efficitur sit amet a ante. Ut maximus ultrices nibh.
-      Vestibulum pulvinar cursus nunc id blandit. Nam auctor nec arcu quis
-      finibus. Nulla ornare varius nunc, vitae pharetra massa luctus vitae. Ut
-      eget mi facilisis, volutpat felis at, euismod neque. Nam maximus neque
-      leo, nec pellentesque urna laoreet in. Praesent vitae velit et elit
-      euismod sodales non ac libero. Nam bibendum non nisi vestibulum cursus.
-      Curabitur tempus in dui eu suscipit. Nullam ut ante egestas, tincidunt
-      dolor a, dictum turpis. Phasellus sollicitudin odio eget magna imperdiet
-      volutpat.
+
+
+
+
+
+
+
 
 
       Quisque pulvinar, tellus at iaculis luctus, augue nisl ornare erat, eu
@@ -37,5 +33,14 @@ values:
       scelerisque. Suspendisse vel vehicula neque. Pellentesque habitant morbi
       tristique senectus et netus et malesuada fames ac turpis egestas. Quisque
       ut mauris quis justo feugiat dictum.
+  - heading: Our History
+    imageUrl: /img/18491850_1485239154872577_1995647147615642351_o.jpg
+    text: >
+      Maynooth Town F.C was founded in 1969 when two local teams St. Mary's and
+      Ballygoran merged together to create MTFC. We began with  teams and slowly
+      grew to 35 teams after 50 years! 
+  - heading: Our Values
+    imageUrl: /img/37604956_1966484276748060_7450526506205315072_o.jpg
+    text: 'At Maynooth Town F.C we value '
 ---
 
