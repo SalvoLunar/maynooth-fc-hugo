@@ -41,9 +41,10 @@ values:
       slowly but surely grew to 35 teams after 50 years! 
 
 
-      A big highlight from the last 50 years was when our Sunday Senior Team
-      made a remarkable comeback to win the FAI Intermediate Cup 4-1 in extra
-      time versus Firhouse Clover in 2018!
+      One of our biggest highlights from over the years was when our LSL Senior
+      Sunday Squad - Maynooth University Town - made a remarkable comeback to
+      win the FAI Intermediate Cup 4-1 in extra time versus Firhouse Clover in
+      2018!
   - heading: Our Values
     imageUrl: /img/download.jpeg
     text: >-
