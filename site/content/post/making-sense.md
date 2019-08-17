@@ -1,6 +1,7 @@
 ---
 title: Lorem ipsum
 date: 2016-12-17T15:04:10.000Z
+thumbnail: /img/32390662_1859641730765649_9204859349124513792_o.jpg
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris posuere
   consectetur semper. Vestibulum ante ipsum primis in faucibus orci luctus et
