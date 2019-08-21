@@ -39,6 +39,14 @@ sup {
   vertical-align: super;
 }
 
+.date{
+  font-style: italic;
+}
+
+.text-center{
+  text-align: center;
+}
+
 /* Measure is limited to ~66 characters */
 .measure {
   max-width: 30em;

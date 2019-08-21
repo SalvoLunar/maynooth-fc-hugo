@@ -6,3 +6,16 @@ img {
 img:not(.w-100) {
   border-radius: var(--border-radius);
 }
+
+.thumbnail{
+  height: 300px;
+  overflow: hidden;
+  border-radius: 10px;
+  margin:10px 0px 20px;
+  position: relative;
+  width: inherit;
+}
+
+.thumbnail img {
+  width:100%;
+}
