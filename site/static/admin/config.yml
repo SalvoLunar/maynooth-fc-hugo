@@ -16,17 +16,6 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Intro Blurb", name: "description", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "event" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Event" # Used in the UI, ie.: "New Post"
-    folder: "site/content/event" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Event Date", name: "date", widget: "datetime"}
-      - {label: "Thumbnail Image", name: "thumbnail", widget: "image"}
-      - {label: "Description Blurb", name: "description", widget: "text"}
-      - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
     files:
@@ -40,15 +29,6 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Blurb", name: blurb, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "markdown"}]}
-          # - {label: "Intro", name: intro, widget: object, fields: [
-          #     {label: "Heading", name: "heading", widget: string},
-          #     {label: "Text", name: "text", widget: "text"}]}
-          # - {label: "Products", name: products, widget: list, fields: [
-          #     {label: "Image", name: "image", widget: "image"},
-          #     {label: "Text", name: "text", widget: "text"}]}
-          # - {label: "Values", name: "values", widget: "object", fields: [
-          #     {label: "Heading", name: "heading", widget: string},
-          #     {label: "Text", name: "text", widget: "text"}]}
       - file: "site/content/contact/_index.md"
         label: "Contact Page"
         name: "contact"
