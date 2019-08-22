@@ -1,7 +1,7 @@
 ---
-title: Lorem Ipsum
+title: Test 1
 date: 2019-07-02T09:53:46.258Z
-thumbnail: /img/18491850_1485239154872577_1995647147615642351_o.jpg
+thumbnail: /img/40256769780_2e47de941c_z.jpg
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu leo nec eros
   scelerisque dictum. Cras tincidunt efficitur felis eget blandit. Nulla iaculis

@@ -1,5 +1,5 @@
 ---
-title: Lorem ipsum
+title: Test 2
 date: 2016-12-17T15:04:10.000Z
 thumbnail: /img/32390662_1859641730765649_9204859349124513792_o.jpg
 description: >-
