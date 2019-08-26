@@ -14,4 +14,16 @@
   }
 }
 
+.padded div{
+  padding:5px;
+}
+
+.flex-ns-fill{
+  justify-content: center;
+  align-items: center;
+}
+
+.flex-ns-fill div{
+  flex-grow:1;
+}
 
