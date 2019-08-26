@@ -2,12 +2,10 @@
 title: Contact
 logo: /img/maynooth-fc-logo.png
 contact_entries:
-  - heading: Location
-    text: 'Rathcoffey Road, Maynooth, Co. Kildare'
+  - heading: Contact
+    text: 'email: [info@maynoothtownfc.ie](mailto:info@maynoothfc.com)'
   - heading: Opening hours
     text: 'Monday – Saturday: 9AM – 7PM'
-  - heading: Contact
-    text: 'email: info@maynoothtownfc.ie'
 ---
 # Location
 
