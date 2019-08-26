@@ -61,7 +61,14 @@ body{
 .topnav a:hover {
     background-color: #DDD;
     color: black;
+    border-bottom:5px solid #ea0411;
 }
+
+.topnav a:first-child:hover {
+    border-bottom:none !important;
+}
+
+
 
 /* Add an active class to highlight the current page */
 .topnav a.active {
