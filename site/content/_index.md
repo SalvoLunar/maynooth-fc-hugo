@@ -5,11 +5,8 @@ image: /img/40256769780_2e47de941c_z.jpg
 welcome: Welcome
 blurb: >-
   MTFC is a Community Club which will celebrate 50 years of football in the
-  community in 2019. 
-
-
-  MTFC provides opportunity for all to participate and enjoy at a level which
-  reflects ability. 
+  community in 2019. MTFC provides opportunity for all to participate and enjoy
+  at a level which reflects ability. 
 
 
   As a club we are open to all, socially inclusive, and cater for teams at all
