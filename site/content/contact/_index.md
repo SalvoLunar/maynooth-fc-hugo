@@ -3,9 +3,15 @@ title: Contact
 logo: /img/maynooth-fc-logo.png
 contact_entries:
   - heading: Contact
-    text: 'email: [info@maynoothtownfc.ie](mailto:info@maynoothfc.com)'
+    text: |-
+      email: 
+
+      [info@maynoothtownfc.ie](mailto:info@maynoothfc.com)
   - heading: Opening hours
-    text: 'Monday – Saturday: 9AM – 7PM'
+    text: |-
+      Monday – Saturday
+
+      9AM – 7PM
 ---
 # Location
 
