@@ -2,10 +2,10 @@
 title: Maynooth Town Football Club
 subtitle: Scoring big since 1969
 image: /img/40256769780_2e47de941c_z.jpg
-welcome: Welcome | 50 Years of Football
+welcome: 50 Years of Football
 blurb: >-
   Maynooth Town F.C. is a vibrant community club that provides everyone with the
-  opportunity to participate in and enjoy the game at a level which reflects
+  opportunity to participate in and enjoy the game at a level that reflects
   their ability. 
 
 
