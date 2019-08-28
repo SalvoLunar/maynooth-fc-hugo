@@ -15,7 +15,7 @@ contact_entries:
 ---
 # How to Find Us
 
-Exit the M4 at the exit 7 Maynooth and turn right on to the Straffan Road towards the town centre. 
+Exit the M4 at exit 7 Maynooth and turn right on to the Straffan Road towards the town centre. 
 
 There is a Lidl and an ESSO station on your right, a few hundred yards after the motorway bridge. Take the left turn just after the ESSO station. This is the Meadowbrook Road (you'll see new houses/apartments on your left, a grass verge on your right). 
 
