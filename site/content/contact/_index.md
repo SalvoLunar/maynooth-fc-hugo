@@ -13,15 +13,21 @@ contact_entries:
 
       9AM – 7PM
 ---
-# Location
+# How to Find Us
 
-Exit the M4 at the Maynooth exit and turn right on to the Straffan Road towards the town centre. There is a Lidl & an ESSO station on your right a few hundred yards after the motorway bridge. Take the left turn just after the ESSO station. This is the Meadowbrook Road (New Houses/Flats on your left grass area on your right) At the T-junction turn right and then first left. (Pub and shops on your right) This is Beaufield Road. At the next T-junction turn left (Fence on your left estate entrances and a few houses on your right) Carry on till you cross the motorway bridge and look to your left you will see the pitches. The entrance is just before the first house on your left (Red brick bunglow) There is a car park thru the gate.
+Exit the M4 at the exit 7 Maynooth and turn right on to the Straffan Road towards the town centre. 
 
-# We need volunteers
+There is a Lidl and an ESSO station on your right, a few hundred yards after the motorway bridge. Take the left turn just after the ESSO station. This is the Meadowbrook Road (you'll see new houses/apartments on your left, a grass verge on your right). 
 
-A little of your time, for now but not for life 
+At the T-junction, turn right and then take the first left (you'll see the Newtown Inn pub and shops on your right) - this is Beaufield Road. 
 
-* Coaches /Mentors
+At the next T-junction turn left (There'll be a fence on your left at the estate entrance and a few houses on your right). Continue straight until you cross the motorway bridge and on the left you'll see the pitches. The entrance is just before the first house on your left (a red brick bungalow). There is a car park on arrival through the gate.
+
+# We Need You! Volunteer Today
+
+We'd appreciate a little of your time, for now but not for life: 
+
+* Coaches/Mentors
 * Communications expertise
 * Project Facilities Support
 * Administrative Support
