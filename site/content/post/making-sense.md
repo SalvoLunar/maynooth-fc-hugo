@@ -1,11 +1,11 @@
 ---
 title: Lenny Murphy reflects on 50 years of MTFC
 date: 2019-10-16T14:04:10.000Z
-thumbnail: /img/32390662_1859641730765649_9204859349124513792_o.jpg
+thumbnail: /img/screenshot-2019-10-16-at-21.49.05.png
 description: >-
   From a milkstand in 1969 to today's four-pitch grounds and clubhouse, [need
   his role/title] Lenny Murphy gives us a glimpse of MTFC's 50-year journey.
-image: /img/34706981_1891653880897767_1043212642409250816_n.jpg
+image: /img/18491850_1485239154872577_1995647147615642351_o.jpg
 ---
 In this our 50th anniversary year, we take pride in our many achievements over the decades. From humble beginnings during a period where we encountered many obstacles along the way, we finally overcame them all to reach a pinnacle that we could never have envisaged all those years ago.
 
@@ -22,6 +22,8 @@ In the early days we were very much a transient club having to move at regular i
 Rockfield, Railpark, Carton Court, the Harbour Field, St. Patrick's College, Geoghegans' field, Moyglare Road and the Dublin Road lands opposite the old Maynooth Mart... They all featured in our journey to today's modern facilities at Rathcoffey Road, where top-class changing rooms, showers and four pitches are the envy of many clubs.
 
 All of this has been achieved through a labour of love by so many dedicated members who can now see the fruits of that labour.
+
+![Maynooth Town FC, Sheeran Cup 76-77](/img/screenshot-2019-10-16-at-21.47.57.png "Maynooth Town FC, Sheeran Cup 76-77")
 
 On the football field, after a tentative start to our competitive campaign, the club began to find its footing and achieve success.
 
