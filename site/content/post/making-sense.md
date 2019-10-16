@@ -21,44 +21,25 @@ Maynooth once had two clubs playing in Leinster League competitions. The present
 
 In the early days we were very much a transient club having to move at regular intervals when pitches were no longer available due to housing developments.
 
-Rockfield, Railpark, Carton Court, the Harbour Field, St. Patrick's College, Geoghegans' field, Moyglare Road and the Dublin Road lands opposite the old Maynooth Mart; all featured in our journey to today's modern facilities at Rathcoffey Road, where top class changing rooms, showers etc., and four pitches are the envy of many clubs.
+Rockfield, Railpark, Carton Court, the Harbour Field, St. Patrick's College, Geoghegans' field, Moyglare Road and the Dublin Road lands opposite the old Maynooth Mart... They all featured in our journey to today's modern facilities at Rathcoffey Road, where top-class changing rooms, showers and four pitches are the envy of many clubs.
 
-All of this has been achieved through a labour of love by so many dedicated members who can now see
+All of this has been achieved through a labour of love by so many dedicated members who can now see the fruits of that labour.
 
-the fruits of their labour.
+On the football field, after a tentative start to our competitive campaign the club began to find its footing and achieve success.
 
-On the football field the after a tentative start to our competitive campaign the club began to find its
+* Runners up to Edenderry Town '71/72 Counties Cup
+* Runners up to Barrow Rovers '72/73 Counties Cup
+* Winners, Counties Cup '76/77 over Trim Celtic
+* Runners up, Sheeran Cup '76/77
+* Div 1a runner up '74/75
+* Div 1 Sunday runner up '76/77
+* Winners, Giffney Cup '82/83
+* Div 2 Saturday winners '82/83
 
-footing and achieve success.
+Some of our players went on to play at the very highest level. David Cowhey signed for Bohemians as an 18 year-old right winger. Bohemians then-manager, Billy Young quoted at the time: 
 
-Runners up to Edenderry Town 71/72 Counties Cup
+_"David has a big future ahead of him and we have been chasing him for along time._"
 
-Runners up to Barrow Rovers 72/73 Counties cup
+The late Liam Devine had the football world at his feet when serious illness cut short a career, which seemed to have no limits. Plying his trade with Shelbourne and Dundalk, Liam was in the mould of an old-fashioned winger or in midfield where he showed an intelligent flair. Liam played in the League and Cup double-winning Dundalk team in 1978-79 and excelled in Dundalk's European Cup campaign, scoring against Hibernian Malta and Linfield, and featuring in the 3-2 defeat by Glasgow Celtic.
 
-Winners Counties Cup 76/77 over Trim Celtic
-
-Runners up Sheeran Cup 76/77
-
-Div !a runner up 74/75
-
-Div 1 Sunday runner up 76/77
-
-Giffney Cup winners 82/83
-
-Div 2 Sat winners 82/83
-
-Some of our players went on to play at the very highest level.David Cowhey signed for Bohemians as an
-
-eighteen year old right winger.Bohemians then manager Billy Young quoted at the time " David has a big
-
-future ahead of him and we have been chasing him for along time."
-
-The late Liam Devine had the football world at his feet when serious illness cut short a career which
-
-seemed had no limits.Plying his trade with Shelbourne and Dundalk,Liam was in the mould of an old
-
-fashioned winger or in midfield where he showed an intelligent flair.Liam played In League and Cup
-
-double winning Dundalk team in 1978/79 and excelled in Dundalk's European Cup campaign, scoring
-
-against Hibernian Malta and Linfield, and featuring in the 3-2 defeat by Glasgow Celtic.
+\[Need an end line or two]
