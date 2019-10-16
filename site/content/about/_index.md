@@ -53,7 +53,7 @@ values:
 
       **Home Ground** - Rathcoffey Road, Maynooth
   - heading: Club Executive
-    imageUrl: /img/maynooth.jpg
+    imageUrl: /img/the-ball-488714_1920.jpg
     text: |-
       Club Chairman - Gerry Folan
 
