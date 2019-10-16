@@ -7,9 +7,10 @@ values:
     text: >-
       Maynooth Town FC was founded in 1969, arising from the merger of two local
       clubs – Maynooth St. Mary's and Ballygoran Utd. Legend has it the
-      formation meeting took place at Feeney's Milkstand on the Celbridge Road. 
-
-
+      formation meeting took place at Feeney's Milkstand on the Celbridge Road.
+  - heading: XXX
+    imageUrl: /img/download.jpeg
+    text: >-
       From tentative beginnings, a 50-year journey unfolded. We've enjoyed
       significant success in the Leinster Counties League and the Sheeran Cup,
       and won the Polikoff Junior Cup in 2014. While our seniors, Maynooth
@@ -27,7 +28,7 @@ values:
       ****
 
 
-      **Club Colours** - white and black
+      **Club Colours** - White and black
 
 
       **Home Ground** - Rathcoffey Road, Maynooth
