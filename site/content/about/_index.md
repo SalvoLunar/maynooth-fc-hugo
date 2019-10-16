@@ -10,7 +10,7 @@ values:
       formation meeting took place at Feeney's Milkstand on the Celbridge Road.
   - heading: ' '
     imageUrl: /img/217959_408942552502248_1928950419_n.jpg
-    text: >
+    text: >-
       From tentative beginnings, a 50-year journey unfolded. We've enjoyed
       significant success in the Leinster Counties League and the Sheeran Cup,
       and won the Polikoff Junior Cup in 2014. While our seniors, Maynooth
@@ -23,7 +23,11 @@ values:
       collaboration of club and university, competing at the highest level in
       the Leinster Senior League), the club's journey continues.
 
-      ****
+
+
+
+      - - -
+
 
       **Club Colours** - White and black
 
