@@ -15,15 +15,29 @@ contact_entries:
 ---
 # How to Find Us
 
-Exit the M4 at exit 7 Maynooth and turn right on to the Straffan Road towards the town centre. 
+![Map of Maynooth ](/img/image-1-.png)
 
-There is a Lidl and an ESSO station on your right, a few hundred yards after the motorway bridge. Take the left turn just after the ESSO station. This is the Meadowbrook Road (you'll see new houses/apartments on your left, a grass verge on your right). 
+**Club Address**
 
-At the T-junction, turn right and then take the first left (you'll see the Newtown Inn pub and shops on your right) - this is Beaufield Road. 
+Maynooth Town FC, Rathcoffey Road, Maynooth, Co. Kildare
 
-At the next T-junction turn left (There'll be a fence on your left at the estate entrance and a few houses on your right). Continue straight until you cross the motorway bridge and on the left you'll see the pitches. The entrance is just before the first house on your left (a red brick bungalow). There is a car park on arrival through the gate.
+Eircode: W23 R302
 
-# We Need You! Volunteer Today
+
+
+**Teams**
+
+All schoolboy/schoolgirl teams
+
+KDFL Seniors
+
+MUTFC Seniors
+
+Club Seniors Alternative
+
+Maynooth University Town (North Campus, Maynooth University)
+
+## We Need You! Volunteer Today
 
 We'd appreciate a little of your time, for now but not for life: 
 
