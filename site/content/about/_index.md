@@ -36,27 +36,15 @@ values:
     text: |-
       Club Chairman - Gerry Folan
 
-
-
       Club Secretary - Miriam Murphy
-
-
 
       Treasurer - Hugh Franklin
 
-
-
       Child Welfare Officer - Miriam Murphy
-
-
 
       Fixtures Secretary (Schoolboys) - Clive Moran
 
-
-
       KDFL Seniors - Seamus Kearney
-
-
 
       LSL Seniors - Noel Dempsey
 ---
