@@ -17,11 +17,7 @@ Maynooth once had two clubs playing in Leinster League competitions. The present
 
 In the early days we were very much a transient club having to move at regular intervals when pitches were no longer available due to housing developments.
 
-
-
 > Today's club was formed from the merger of Maynooth St. Mary's and Ballygoran United in '69. Legend has it, the first meeting took place at Feeney's milkstand on the Celbridge Road...
-
-
 
 Rockfield, Railpark, Carton Court, the Harbour Field, St. Patrick's College, Geoghegans' field, Moyglare Road and the Dublin Road lands opposite the old Maynooth Mart... They all featured in our journey to today's modern facilities at Rathcoffey Road, where top-class changing rooms, showers and four pitches are the envy of many clubs.
 
@@ -29,14 +25,14 @@ All of this has been achieved through a labour of love by so many dedicated memb
 
 On the football field, after a tentative start to our competitive campaign, the club began to find its footing and achieve success.
 
-* Runners up to Edenderry Town '71/72 Counties Cup
-* Runners up to Barrow Rovers '72/73 Counties Cup
-* Winners, Counties Cup '76/77 over Trim Celtic
-* Runners up, Sheeran Cup '76/77
-* Div 1a runner up '74/75
-* Div 1 Sunday runner up '76/77
-* Winners, Giffney Cup '82/83
-* Div 2 Saturday winners '82/83
+* Runners up to Edenderry Town '71-72 Counties Cup
+* Runners up to Barrow Rovers '72-73 Counties Cup
+* Winners, Counties Cup '76-77 over Trim Celtic
+* Runners up, Sheeran Cup '76-77
+* Div 1a runner up '74-75
+* Div 1 Sunday runner up '76-77
+* Winners, Giffney Cup '82-83
+* Div 2 Saturday winners '82-83
 
 Some of our players went on to play at the very highest level. **David Cowhey** signed for Bohemians as an 18 year-old right winger. Bohemians' then-manager, Billy Young was quoted at the time as saying: 
 
