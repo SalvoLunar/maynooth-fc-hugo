@@ -1,6 +1,6 @@
 ---
 title: Lenny Murphy reflects on 50 years of MTFC
-date: 2019-10-20T14:04:10.000Z
+date: 2019-10-16T14:04:10.000Z
 thumbnail: /img/32390662_1859641730765649_9204859349124513792_o.jpg
 description: >-
   From a milkstand in 1969 to today's four-pitch grounds and clubhouse, [need
