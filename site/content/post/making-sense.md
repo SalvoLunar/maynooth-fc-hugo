@@ -2,7 +2,9 @@
 title: Lenny Murphy Reflects on 50 Years of MTFC
 date: 2016-12-17T15:04:10.000Z
 thumbnail: /img/32390662_1859641730765649_9204859349124513792_o.jpg
-description: XXXXXX
+description: >-
+  From a milkstand in 1969 to today's four-pitch grounds and clubhouse, [need
+  his role/title] Lenny Murphy gives us a glimpse of MTFC's 50-year journey.
 image: /img/34706981_1891653880897767_1043212642409250816_n.jpg
 ---
 In this our 50th anniversary year, we take pride in our many achievements over the decades. From humble beginnings during a period where we encountered many obstacles along the way, we finally overcame them all to reach a pinnacle that we could never have envisaged all those years ago.
@@ -13,19 +15,19 @@ Unfortunately, many former club stalwarts have since passed to their eternal rew
 
 Maynooth once had two clubs playing in Leinster League competitions. The present club was formed from the merger of Maynooth St. Mary's and Ballygoran United. Legend has it, that the first meeting took place at Feeney's milkstand on the Celbridge Road.
 
-
-
-> The present club was formed from the merger of Maynooth St. Mary's and Ballygoran United. Legend has it, the first meeting took place at Feeney's milkstand on the Celbridge Road...
-
-
-
 In the early days we were very much a transient club having to move at regular intervals when pitches were no longer available due to housing developments.
+
+
+
+> Today's club was formed from the merger of Maynooth St. Mary's and Ballygoran United in '69. Legend has it, the first meeting took place at Feeney's milkstand on the Celbridge Road...
+
+
 
 Rockfield, Railpark, Carton Court, the Harbour Field, St. Patrick's College, Geoghegans' field, Moyglare Road and the Dublin Road lands opposite the old Maynooth Mart... They all featured in our journey to today's modern facilities at Rathcoffey Road, where top-class changing rooms, showers and four pitches are the envy of many clubs.
 
 All of this has been achieved through a labour of love by so many dedicated members who can now see the fruits of that labour.
 
-On the football field, after a tentative start to our competitive campaign the club began to find its footing and achieve success.
+On the football field, after a tentative start to our competitive campaign, the club began to find its footing and achieve success.
 
 * Runners up to Edenderry Town '71/72 Counties Cup
 * Runners up to Barrow Rovers '72/73 Counties Cup
@@ -36,10 +38,12 @@ On the football field, after a tentative start to our competitive campaign the c
 * Winners, Giffney Cup '82/83
 * Div 2 Saturday winners '82/83
 
-Some of our players went on to play at the very highest level. David Cowhey signed for Bohemians as an 18 year-old right winger. Bohemians then-manager, Billy Young quoted at the time: 
+Some of our players went on to play at the very highest level. **David Cowhey** signed for Bohemians as an 18 year-old right winger. Bohemians' then-manager, Billy Young was quoted at the time as saying: 
 
 _"David has a big future ahead of him and we have been chasing him for along time._"
 
-The late Liam Devine had the football world at his feet when serious illness cut short a career, which seemed to have no limits. Plying his trade with Shelbourne and Dundalk, Liam was in the mould of an old-fashioned winger or in midfield where he showed an intelligent flair. Liam played in the League and Cup double-winning Dundalk team in 1978-79 and excelled in Dundalk's European Cup campaign, scoring against Hibernian Malta and Linfield, and featuring in the 3-2 defeat by Glasgow Celtic.
+The late **Liam Devine** had the football world at his feet when serious illness cut short a career, which seemed to have no limits. Plying his trade with Shelbourne and Dundalk, Liam was in the mould of an old-fashioned winger or in midfield, where he showed an intelligent flair. Liam played in the League and Cup double-winning Dundalk team in 1978-79 and excelled in Dundalk's European Cup campaign, scoring against Hibernian Malta and Linfield, and featuring in the 3-2 defeat by Glasgow Celtic.
+
+\[Add image of Liam Devine and reference the call for archive material etc]
 
 \[Need an end line or two]
