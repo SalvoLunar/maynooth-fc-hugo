@@ -1,9 +1,13 @@
 import React from "react";
 import {List} from "immutable";
+import { Remarkable } from 'remarkable';
+import ReactHtmlParser from 'react-html-parser';
 
 import Jumbotron from "./components/jumbotron";
 
 const MediaBlock = ({heading, text, imageUrl, reverse}) => {
+  var md = new Remarkable();
+  var txt = md.render(text)
   const imageContainerClassName = reverse
     ? "ph3-m w-50-m"
     : "ph3-m w-50-m order-last-m";
@@ -13,7 +17,7 @@ const MediaBlock = ({heading, text, imageUrl, reverse}) => {
     </div>
     <div className="ph3-m w-50-m">
       <h3 className="f3 b lh-title mb1">{heading}</h3>
-      <p>{text}</p>
+      {ReactHtmlParser(txt)}
     </div>
   </div>;
 };
@@ -31,8 +35,6 @@ export default class AboutPreview extends React.Component {
 
     const entryValues = entry.getIn(["data", "values"]);
     const values = entryValues ? entryValues.toJS() : [];
-
-    console.log(values)
 
     return <div>
       <Jumbotron image={image} title={entry.getIn(["data", "title"])} />
