@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: /img/37604956_1966484276748060_7450526506205315072_o.jpg
+logo: /img/maynooth-fc-logo.png
 contact_entries:
   - heading: Contact
     text: |-
