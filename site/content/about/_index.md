@@ -11,35 +11,44 @@ values:
   - heading: ' '
     imageUrl: /img/217959_408942552502248_1928950419_n.jpg
     text: >-
-      From tentative beginnings, a 50-year journey unfolded. 
+      From tentative beginnings, a 50-year journey unfolded. We've enjoyed
+      significant success in the Leinster Counties League and the Sheeran Cup,
+      and won the Polikoff Junior Cup in 2014. 
 
 
-      We've enjoyed significant success in the Leinster Counties League and the
-      Sheeran Cup, and won the Polikoff Junior Cup in 2014. While our seniors,
-      Maynooth University Town, brought us all the way to the FAI Intermediate
-      Cup Final in the Aviva Stadium in 2018, defeating Firhouse Clover 4-1 in
-      extra time for a historic victory after a remarkable comeback.With over 35
-      teams including, schoolboys and schoolgirls in the NDSL and MGL leagues,
-      KDSL over 35's, and our seniors Maynooth University Town (a collaboration
-      of club and university, competing at the highest level in the Leinster
-      Senior League), the club's journey continues. 
+      While our seniors, Maynooth University Town, brought us all the way to the
+      FAI Intermediate Cup Final in the Aviva Stadium in 2018, defeating
+      Firhouse Clover 4-1 in extra time for a historic victory after a
+      remarkable comeback. 
 
 
-      **Club Colours** - White and black 
+      With over 35 teams including, schoolboys and schoolgirls in the NDSL and
+      MGL leagues, KDSL over 35's, and our seniors Maynooth University Town (a
+      collaboration of club and university, competing at the highest level in
+      the Leinster Senior League), the club's journey continues. 
 
 
-      **Home Ground** - Rathcoffey Road, Maynooth
-  - heading: Chief Executive
+      Club Colours - White and black 
+
+
+      Home Ground - Rathcoffey Road, Maynooth
+  - heading: Club Executive
     imageUrl: /img/37604956_1966484276748060_7450526506205315072_o.jpg
     text: |-
-      **Club Chairman**
+      Club Chairman - Gerry Folan
 
-      * Gerry FolanClub Secretary 
-      * Miriam MurphyTreasurer 
-      * Hugh FranklinChild Welfare Officer 
-      * Miriam MurphyFixtures Secretary (Schoolboys) 
-      * Clive MoranKDFL Seniors 
-      * Seamus KearneyLSL Seniors 
-      * Noel Dempsey
+      Club Secretary - Miriam Murphy
+
+      Treasurer - Hugh Franklin
+
+      Child Welfare Officer - Miriam Murphy
+
+      Fixtures Secretary (Schoolboys) - Clive Moran
+
+      KDFL Seniors - Seamus Kearney
+
+      LSL Seniors - Noel Dempsey
+
+      ****
 ---
 
