@@ -39,7 +39,7 @@ Maynooth University Town (North Campus, Maynooth University)
 We'd appreciate a little of your time, for now but not for life: 
 
 * Coaches/Mentors
-* Communications expertise
+* Communications Expertise
 * Project Facilities Support
 * Administrative Support
 
