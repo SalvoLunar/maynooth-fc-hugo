@@ -9,7 +9,7 @@ description: >-
 
 
   And we need your help!
-image: /img/217959_408942552502248_1928950419_n.jpg
+image: /img/screenshot-2019-10-16-at-21.49.17.png
 ---
 Maynooth Town FC is celebrating 50 years as a club this year.
  Now that we've just launched our new website, we want to collect, preserve and archive all of the priceless artefacts that form part of the club's story.
@@ -17,6 +17,8 @@ Maynooth Town FC is celebrating 50 years as a club this year.
 Over the years many people have participated in and contributed to our journey, to where we are now; a community club, providing football for 450 players across 35 teams and growing.
 
 The story of our club is ever unfolding and is never stuck in one moment in time. There are many stories held in the collective and individual memory, experiences of playing with or an involvement in the life of the club over the past 50 years.
+
+![](/img/screenshot-2019-10-16-at-21.49.05.png)
 
 That's why to celebrate our 50th year, we want to capture that history, to reflect on the experiences with club, the memories and the many stories. 
 
