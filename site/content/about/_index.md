@@ -35,20 +35,18 @@ values:
   - heading: Club Executive
     imageUrl: /img/37604956_1966484276748060_7450526506205315072_o.jpg
     text: |-
-      Club Chairman - Gerry Folan
+      Chairman - Gerry Folan 
 
-      Club Secretary - Miriam Murphy
+      Secretary - Miriam Murphy
 
       Treasurer - Hugh Franklin
 
-      Child Welfare Officer - Miriam Murphy
+      Fixtures Secretary - Clive Moran
 
-      Fixtures Secretary (Schoolboys) - Clive Moran
+      Clubhouse Facilities - Helen O'Carroll
 
-      KDFL Seniors - Seamus Kearney
+      LSL MUTFC Seniors - Noel Dempsey
 
-      LSL Seniors - Noel Dempsey
-
-      ****
+      KFL MTFC Seniors - Seamus Kearney
 ---
 
