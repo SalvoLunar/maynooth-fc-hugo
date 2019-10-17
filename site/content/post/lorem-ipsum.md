@@ -28,4 +28,4 @@ We would be delighted if people would share their club experiences and memories 
 
 Let's celebrate our club’s journey and what has been achieved so far.
 
-**Get in touch via mtfc50years@gmail.com**
+**Get in touch - mtfc50years@gmail.com**
