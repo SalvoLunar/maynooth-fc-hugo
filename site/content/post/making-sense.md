@@ -44,6 +44,6 @@ _"David has a big future ahead of him and we have been chasing him for along tim
 
 The late **Liam Devine** had the football world at his feet when serious illness cut short a career, which seemed to have no limits. Plying his trade with Shelbourne and Dundalk, Liam was in the mould of an old-fashioned winger or in midfield, where he showed an intelligent flair. Liam played in the League and Cup double-winning Dundalk team in 1978-79 and excelled in Dundalk's European Cup campaign, scoring against Hibernian Malta and Linfield, and featuring in the 3-2 defeat by Glasgow Celtic.
 
-\[Add image of Liam Devine and reference the call for archive material etc]
+\[Going to add link and a reference the call for archive material etc]
 
-\[Need an end line or two]
+\[Need an end line or two for this whole piece]
