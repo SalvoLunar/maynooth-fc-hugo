@@ -1,13 +1,16 @@
 ---
-title: Lenny Murphy reflects on 50 years of MTFC
+title: Reflecting on 50 years of MTFC
 date: 2019-10-16T14:04:10.000Z
 thumbnail: /img/screenshot-2019-10-16-at-21.49.05.png
 description: >-
-  From a milkstand in 1969 to today's four-pitch grounds and clubhouse, [need
-  his role/title] Lenny Murphy gives us a glimpse of MTFC's 50-year journey.
+  From a milkstand in 1969 to today's four-pitch grounds and clubhouse,
+  long-time club stalwart Lenny Murphy gives us a glimpse of MTFC's 50-year
+  journey.
 image: /img/18491850_1485239154872577_1995647147615642351_o.jpg
 ---
 In this our 50th anniversary year, we take pride in our many achievements over the decades. From humble beginnings during a period where we encountered many obstacles along the way, we finally overcame them all to reach a pinnacle that we could never have envisaged all those years ago.
+
+Celebrating 50 years by hosting an FAI Senior Cup tie in August 2019 for first time ever on our home ground against Waterford FC, was a special occasion and a proud day for the club.
 
 Many changes have occurred during that time and we are heavily indebted to all who helped us along the way.
 
@@ -21,7 +24,7 @@ In the early days we were very much a transient club having to move at regular i
 
 Rockfield, Railpark, Carton Court, the Harbour Field, St. Patrick's College, Geoghegans' field, Moyglare Road and the Dublin Road lands opposite the old Maynooth Mart... They all featured in our journey to today's modern facilities at Rathcoffey Road, where top-class changing rooms, showers and four pitches are the envy of many clubs.
 
-All of this has been achieved through a labour of love by so many dedicated members who can now see the fruits of that labour.
+All of this has been achieved through a labour of love by so many dedicated members who can now see the fruits of their efforts.
 
 ![Maynooth Town FC, Sheeran Cup 76-77](/img/screenshot-2019-10-16-at-21.47.57.png "Maynooth Town FC, Sheeran Cup 76-77")
 
@@ -36,7 +39,11 @@ On the football field, after a tentative start to our competitive campaign, the 
 * Winners, Giffney Cup '82-83
 * Div 2 Saturday winners '82-83
 
-Some of our players went on to play at the very highest level. **David Cowhey** signed for Bohemians as an 18 year-old right winger. Bohemians' then-manager, Billy Young was quoted at the time as saying: 
+Some of our players went on to play at the very highest level. **David Cowhey** signed for Bohemians as an 18 year-old right winger. 
+
+![Maynooth Newsletter 76-77](/img/image-2-.png "David Cowhey")
+
+Bohemians' then-manager, Billy Young was quoted at the time as saying: 
 
 _"David has a big future ahead of him and we have been chasing him for along time._"
 
@@ -44,6 +51,14 @@ _"David has a big future ahead of him and we have been chasing him for along tim
 
 The late **Liam Devine** had the football world at his feet when serious illness cut short a career, which seemed to have no limits. Plying his trade with Shelbourne and Dundalk, Liam was in the mould of an old-fashioned winger or in midfield, where he showed an intelligent flair. Liam played in the League and Cup double-winning Dundalk team in 1978-79 and excelled in Dundalk's European Cup campaign, scoring against Hibernian Malta and Linfield, and featuring in the 3-2 defeat by Glasgow Celtic.
 
-\[Going to add link and a reference the call for archive material etc]
+Winning the Polikoff Cup in 2014, defeating Liffey Wanderers 1-0 at the Belfield Bowl, was a huge achievement and the springboard for our entry to the Leinster Senior League.
 
-\[Need an end line or two for this whole piece]
+Since then the collaboration and partnership at senior level with Maynooth University has led to promotion to the top flight of the LSL. This partnership has created pathways for our young players to play at the highest level. And who could ever forget Maynooth University Town winning the FAI Intermediate Cup in 2018? Defeating Firhouse Clover 4-1 after extra time.
+
+From Feeney’s milk stand to the Aviva Stadium, what a journey.
+
+– Lenny Murphy
+
+
+
+\[Going to add link and a reference the call for archive material etc]
