@@ -68,9 +68,7 @@ From Feeney’s milk stand to the Aviva Stadium, what a journey.
 
 _– Lenny Murphy_
 
-
-
-## Help Expand the MTFC Archive!
+> Help Expand the MTFC Archive!
 
 We're collecting and digitising all the MTFC newspaper clippings, match programmes, photos and paraphernalia from 1969 to today that we can get our hands on. And we need your help!
 
