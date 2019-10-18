@@ -33,7 +33,7 @@ All of this has been achieved through a labour of love by so many dedicated memb
 
 ## Finding Our Feet
 
-On the football field, after a tentative start to our competitive campaign, the club began to find its footing and achieve success.
+On the football field, after a tentative start to our competitive campaign, the club began to find its footing and achieving success.
 
 * Runners up to Edenderry Town '71-72 Counties Cup
 * Runners up to Barrow Rovers '72-73 Counties Cup
