@@ -70,4 +70,12 @@ _– Lenny Murphy_
 
 
 
-\[Going to add link and a reference the call for archive material etc]
+## Help Expand the MTFC Archive!
+
+We're collecting and digitising all the MTFC newspaper clippings, match programmes, photos and paraphernalia from 1969 to today that we can get our hands on. And we need your help!
+
+If you have a photograph, a story, a match programme, a press clipping, a game that stood out, players you admired, a reflection of your time with Maynooth Town FC – please share it with us.
+
+**Get in touch - mtfc50years@gmail.com**
+
+\[Going to add link to archive/gallery when ready]
