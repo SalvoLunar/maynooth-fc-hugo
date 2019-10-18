@@ -46,6 +46,8 @@ On the football field, after a tentative start to our competitive campaign, the 
 
 Some of our players went on to play at the very highest level. **David Cowhey** signed for Bohemians as an 18 year-old right winger. 
 
+Below is an excerpt of the January/February 1978 edition of the Maynooth Newsletter, reporting on Cowhey's signing.
+
 ![Maynooth Newsletter 76-77](/img/image-2-.png "David Cowhey")
 
 Bohemians' then-manager, Billy Young was quoted at the time as saying: 
