@@ -16,6 +16,8 @@ Many changes have occurred during that time and we are heavily indebted to all w
 
 Unfortunately, many former club stalwarts have since passed to their eternal reward but can rest in the knowledge that their past efforts have played a big part in our achievements to date.
 
+## Humble Beginnings
+
 Maynooth once had two clubs playing in Leinster League competitions. The present club was formed from the merger of Maynooth St. Mary's and Ballygoran United. Legend has it, that the first meeting took place at Feeney's milkstand on the Celbridge Road.
 
 In the early days we were very much a transient club having to move at regular intervals when pitches were no longer available due to housing developments.
@@ -26,7 +28,11 @@ Rockfield, Railpark, Carton Court, the Harbour Field, St. Patrick's College, Geo
 
 All of this has been achieved through a labour of love by so many dedicated members who can now see the fruits of their efforts.
 
+
+
 ![Maynooth Town FC, Sheeran Cup 76-77](/img/screenshot-2019-10-16-at-21.47.57.png "Maynooth Town FC, Sheeran Cup 76-77")
+
+## Find Our Feet
 
 On the football field, after a tentative start to our competitive campaign, the club began to find its footing and achieve success.
 
@@ -47,9 +53,11 @@ Bohemians' then-manager, Billy Young was quoted at the time as saying:
 
 _"David has a big future ahead of him and we have been chasing him for along time._"
 
+The late **Liam Devine** had the football world at his feet when serious illness cut short a career, which seemed to have no limits. Plying his trade with Shelbourne and Dundalk, Liam was in the mould of an old-fashioned winger or in midfield, where he showed an intelligent flair.
+
 ![Liam Devine](/img/screenshot-2019-10-16-at-21.54.44.png "Liam Devine")
 
-The late **Liam Devine** had the football world at his feet when serious illness cut short a career, which seemed to have no limits. Plying his trade with Shelbourne and Dundalk, Liam was in the mould of an old-fashioned winger or in midfield, where he showed an intelligent flair. Liam played in the League and Cup double-winning Dundalk team in 1978-79 and excelled in Dundalk's European Cup campaign, scoring against Hibernian Malta and Linfield, and featuring in the 3-2 defeat by Glasgow Celtic.
+Liam played in the League and Cup double-winning Dundalk team in 1978-79 and excelled in Dundalk's European Cup campaign, scoring against Hibernian Malta and Linfield, and featuring in the 3-2 defeat by Glasgow Celtic.
 
 Winning the Polikoff Cup in 2014, defeating Liffey Wanderers 1-0 at the Belfield Bowl, was a huge achievement and the springboard for our entry to the Leinster Senior League.
 
