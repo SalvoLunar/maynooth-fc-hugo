@@ -9,7 +9,7 @@ image: /img/18491850_1485239154872577_1995647147615642351_o.jpg
 ---
 In this our 50th anniversary year, we take pride in our many achievements over the decades. From humble beginnings during a period where we encountered many obstacles along the way, we finally overcame them all to reach a pinnacle that we could never have envisaged all those years ago.
 
-Celebrating 50 years by hosting an FAI Senior Cup tie in August 2019 for first time ever on our home ground against Waterford FC, was a special occasion and a proud day for the club.
+Celebrating 50 years by hosting an **FAI Senior Cup tie** in August 2019 for first time ever on our home ground against Waterford FC, was a special occasion and a proud day for the club.
 
 Many changes have occurred during that time and we are heavily indebted to all who helped us along the way.
 
@@ -58,13 +58,13 @@ The late **Liam Devine** had the football world at his feet when serious illness
 
 Liam played in the League and Cup double-winning Dundalk team in 1978-79 and excelled in Dundalk's European Cup campaign, scoring against Hibernian Malta and Linfield, and featuring in the 3-2 defeat by Glasgow Celtic.
 
-Winning the Polikoff Cup in 2014, defeating Liffey Wanderers 1-0 at the Belfield Bowl, was a huge achievement and the springboard for our entry to the Leinster Senior League.
+Winning the **Polikoff Cup** in 2014, defeating Liffey Wanderers 1-0 at the Belfield Bowl, was a huge achievement and the springboard for our entry to the Leinster Senior League.
 
-Since then the collaboration and partnership at senior level with Maynooth University has led to promotion to the top flight of the LSL. This partnership has created pathways for our young players to play at the highest level. And who could ever forget Maynooth University Town winning the FAI Intermediate Cup in 2018? Defeating Firhouse Clover 4-1 after extra time.
+Since then the collaboration and partnership at senior level with **Maynooth University** has led to promotion to the top flight of the LSL. This partnership has created pathways for our young players to play at the highest level. And who could ever forget Maynooth University Town winning the **FAI Intermediate Cup** in 2018? Defeating Firhouse Clover 4-1 after extra time.
 
 From Feeney’s milk stand to the Aviva Stadium, what a journey.
 
-– Lenny Murphy
+_– Lenny Murphy_
 
 
 
