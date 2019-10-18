@@ -31,7 +31,7 @@ All of this has been achieved through a labour of love by so many dedicated memb
 
 ![Maynooth Town FC, Sheeran Cup 76-77](/img/screenshot-2019-10-16-at-21.47.57.png "Maynooth Town FC, Sheeran Cup 76-77")
 
-## Find Our Feet
+## Finding Our Feet
 
 On the football field, after a tentative start to our competitive campaign, the club began to find its footing and achieve success.
 
