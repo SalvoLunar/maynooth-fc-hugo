@@ -4,8 +4,7 @@ date: 2019-10-16T14:04:10.000Z
 thumbnail: /img/screenshot-2019-10-16-at-21.49.05.png
 description: >-
   From a milkstand in 1969 to today's four-pitch grounds and clubhouse,
-  long-time club stalwart Lenny Murphy gives us a glimpse of MTFC's 50-year
-  journey.
+  long-time club stalwart Lenny Murphy looks back on MTFC's 50-year journey.
 image: /img/18491850_1485239154872577_1995647147615642351_o.jpg
 ---
 In this our 50th anniversary year, we take pride in our many achievements over the decades. From humble beginnings during a period where we encountered many obstacles along the way, we finally overcame them all to reach a pinnacle that we could never have envisaged all those years ago.
