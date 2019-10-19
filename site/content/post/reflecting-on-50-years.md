@@ -27,8 +27,6 @@ Rockfield, Railpark, Carton Court, the Harbour Field, St. Patrick's College, Geo
 
 All of this has been achieved through a labour of love by so many dedicated members who can now see the fruits of their efforts.
 
-
-
 ![Maynooth Town FC, Sheeran Cup 76-77](/img/screenshot-2019-10-16-at-21.47.57.png "Maynooth Town FC, Sheeran Cup 76-77")
 
 ## Finding Our Feet
@@ -70,7 +68,7 @@ _– Lenny Murphy_
 
 > Help Expand the MTFC Archive!
 
-We're collecting and digitising all the MTFC newspaper clippings, match programmes, photos and paraphernalia from 1969 to today that we can get our hands on. And we need your help!
+We're [collecting and digitising](/reeling-in-the-years) all the MTFC newspaper clippings, match programmes, photos and paraphernalia from 1969 to today that we can get our hands on. And we need your help!
 
 If you have a photograph, a story, a match programme, a press clipping, a game that stood out, players you admired, a reflection of your time with Maynooth Town FC – please share it with us.
 
