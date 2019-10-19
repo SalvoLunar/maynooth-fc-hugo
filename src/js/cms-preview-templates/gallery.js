@@ -2,15 +2,12 @@ import React from "react";
 import Jumbotron from "./components/jumbotron";
 
 const MediaBlock = ({title, text, imageUrl}) => {
-  const imageContainerClassName = reverse
-    ? "ph3-m w-50-m"
-    : "ph3-m w-50-m order-last-m";
-  return <div className="flex-m mhn3-m mb4">
-    <div className={imageContainerClassName}>
-      <img src={imageUrl} alt="" className="db mb2" />
+  return <div className="gallery-item-wrapper">
+    <div className="picture">
+      <img src={imageUrl} alt="" className="image" />
     </div>
-    <div className="ph3-m w-50-m">
-      <h3 className="f3 b lh-title mb1">{title}</h3>
+    <div className="text-content">
+      <h3 className="text-content-title">{title}</h3>
       <p>{text}</p>
     </div>
   </div>;
@@ -31,9 +28,11 @@ export default class GalleryPreview extends React.Component {
     const pictures = entryPictures ? entryPictures.toJS() : [];
 
     return <div>
-      <Jumbotron image={image} title={entry.getIn(["data", "title"])} />
-      <h1>{entry.getIn(["data", "title"])}</h1>
-      <div>{entry.getIn(["data", "text"])}</div>
+      <div className="center mw6 pv3">
+        <h1 class="center">{entry.getIn(["data", "title"])}</h1>
+        <hr/>
+        <div class="center">{entry.getIn(["data", "text"])}</div>
+      </div>
       <div className="bg-off-white pv4">
         <div className="mw7 center ph3 pt4">
           {pictures.map(({text, title, imageUrl}, i) =>
