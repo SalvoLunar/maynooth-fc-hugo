@@ -18,3 +18,17 @@ window.menuToggle = function(){
     x.className = "topnav";
   }
 }
+
+var elem = document.querySelector('.grid');
+var msnry = new Masonry( elem, {
+  // options
+  itemSelector: '.grid-item',
+  columnWidth: 150,
+  gutter:10
+});
+
+// element argument can be a selector string
+//   for an individual element
+var msnry = new Masonry( '.grid', {
+  // options
+});

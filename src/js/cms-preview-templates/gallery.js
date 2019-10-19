@@ -1,14 +1,13 @@
 import React from "react";
-import Jumbotron from "./components/jumbotron";
 
 const MediaBlock = ({title, text, imageUrl}) => {
-  return <div className="gallery-item-wrapper">
+  return <div className="grid-item">
     <div className="picture">
       <img src={imageUrl} alt="" className="image" />
     </div>
     <div className="text-content">
       <h3 className="text-content-title">{title}</h3>
-      <p>{text}</p>
+      <div>{text}</div>
     </div>
   </div>;
 };
@@ -34,7 +33,7 @@ export default class GalleryPreview extends React.Component {
         <div class="center">{entry.getIn(["data", "body"])}</div>
       </div>
       <div className="bg-off-white pv4">
-        <div className="mw7 center ph3 pt4">
+        <div className="grid mw7 center ph3 pt4">
           {pictures.map(({text, title, imageUrl}, i) =>
             <MediaBlock key={i} text={text} title={title} imageUrl={imageUrl}/>
           )}

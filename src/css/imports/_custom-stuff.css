@@ -1,0 +1,33 @@
+.text-centered{
+    text-align:center;
+}
+
+/* Masonry grid*/
+
+.grid{
+    padding-bottom:50px;
+}
+
+/* fluid 5 columns */
+.grid-sizer,
+.grid-item { width: 33.333%; margin-bottom: 10px;}
+/* 2 columns */
+.grid-item--width2 { width: 40%; }
+
+.grid-item .picture{
+    margin:0px;
+    padding:0px;
+}
+
+.grid-item .picture .image{
+    border-radius: 0px;
+    margin:0px;
+    padding:0px;
+    display: block;
+}
+.grid-item .text-content{
+    display: block;
+    background:#000;
+    color:#FFF;
+    padding:5px
+}
