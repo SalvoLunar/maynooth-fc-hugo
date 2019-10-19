@@ -32,15 +32,3 @@ var msnry = new Masonry( '.grid', {
 });
 
 msnry.layout()
-
-var items = document.getElementsByClassName('grid-item')
-Array.from(items).forEach(function(item){
-  item.addEventListener('click',function(e){
-    if(e.currentTarget.className.indexOf('gigante') === -1){
-      e.currentTarget.className+=' gigante'
-    }else{
-      e.currentTarget.className=e.currentTarget.className.replace(' gigante','')
-    }
-    msnry.layout()
-  })
-})

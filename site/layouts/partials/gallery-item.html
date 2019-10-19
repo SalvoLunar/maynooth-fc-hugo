@@ -1,5 +1,5 @@
 <div class="grid-item">
-  <div class="padding-wrapper">
+  <a data-fancybox="gallery" data-caption="{{if .title}}{{.title}}{{end}} - {{.text | markdownify}}" href="{{.imageUrl}}" class="fancybox padding-wrapper">
     <div class="picture">
       <img src="{{.imageUrl}}" alt="" class="image">
     </div>
@@ -7,5 +7,5 @@
       {{if .title}}<h3 class="text-content-title">{{.title}}</h3>{{end}}
       <div>{{.text | markdownify}}</div>
     </div>
-  </div>
+  </a>
 </div>
