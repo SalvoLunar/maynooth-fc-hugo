@@ -1,9 +1,11 @@
 <div class="grid-item">
-  <div class="picture">
-    <img src="{{.imageUrl}}" alt="" class="image">
-  </div>
-  <div class="text-content">
-    {{if .title}}<h3 class="text-content-title">{{.title}}</h3>{{end}}
-    <div>{{.text | markdownify}}</div>
+  <div class="padding-wrapper">
+    <div class="picture">
+      <img src="{{.imageUrl}}" alt="" class="image">
+    </div>
+    <div class="text-content">
+      {{if .title}}<h3 class="text-content-title">{{.title}}</h3>{{end}}
+      <div>{{.text | markdownify}}</div>
+    </div>
   </div>
 </div>

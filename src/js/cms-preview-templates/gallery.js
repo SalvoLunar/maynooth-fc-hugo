@@ -2,12 +2,14 @@ import React from "react";
 
 const MediaBlock = ({title, text, imageUrl}) => {
   return <div className="grid-item">
-    <div className="picture">
-      <img src={imageUrl} alt="" className="image" />
-    </div>
-    <div className="text-content">
-      <h3 className="text-content-title">{title}</h3>
-      <div>{text}</div>
+    <div class="padding-wrapper">
+      <div className="picture">
+        <img src={imageUrl} alt="" className="image" />
+      </div>
+      <div className="text-content">
+        <h3 className="text-content-title">{title}</h3>
+        <div>{text}</div>
+      </div>
     </div>
   </div>;
 };
@@ -34,6 +36,7 @@ export default class GalleryPreview extends React.Component {
       </div>
       <div className="bg-off-white pv4">
         <div className="grid mw7 center ph3 pt4">
+          <div class="grid-sizer"></div>
           {pictures.map(({text, title, imageUrl}, i) =>
             <MediaBlock key={i} text={text} title={title} imageUrl={imageUrl}/>
           )}

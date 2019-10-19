@@ -10,24 +10,31 @@
 
 /* fluid 5 columns */
 .grid-sizer,
-.grid-item { width: 33.333%; margin-bottom: 10px;}
+.grid-item { width: 31%;    }
+.grid-item.gigante{width: 100%}
 /* 2 columns */
-.grid-item--width2 { width: 40%; }
+.grid-item  .padding-wrapper { padding:5px; }
 
-.grid-item .picture{
+.grid-item .padding-wrapper .picture{
     margin:0px;
     padding:0px;
 }
 
-.grid-item .picture .image{
+.grid-item .padding-wrapper  .picture .image{
     border-radius: 0px;
     margin:0px;
     padding:0px;
     display: block;
 }
-.grid-item .text-content{
+.grid-item .padding-wrapper .text-content{
     display: block;
     background:#000;
     color:#FFF;
-    padding:5px
+    padding:5px;
+    font-size:14px;
+}
+
+.grid-item .padding-wrapper .text-content .text-content-title{
+    padding:2px 0px;
+    margin:0px;
 }
