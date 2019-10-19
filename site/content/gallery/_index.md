@@ -1,6 +1,6 @@
 ---
 title: Gallery
-intro: test
+body: test
 pictures:
   - imageUrl: /img/217959_408942552502248_1928950419_n.jpg
     text: Test
