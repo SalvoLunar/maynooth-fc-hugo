@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+<div class="center mw6 pv3">
+    <h1 class="center">{{ .Title }}</h1>
+    <hr/>
+    <div class="center">{{ .Intro }}</div>
+  </div>
+
+<div class="mw7 center ph3 pt4">
+
+  {{ range $index, $element := .Params.pictures }}
+    {{ partial "gallery-item" $element }}
+  {{ end }}
+
+</div>
+
+{{ end }}

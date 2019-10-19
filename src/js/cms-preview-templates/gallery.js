@@ -31,7 +31,7 @@ export default class GalleryPreview extends React.Component {
       <div className="center mw6 pv3">
         <h1 class="center">{entry.getIn(["data", "title"])}</h1>
         <hr/>
-        <div class="center">{entry.getIn(["data", "text"])}</div>
+        <div class="center">{entry.getIn(["data", "intro"])}</div>
       </div>
       <div className="bg-off-white pv4">
         <div className="mw7 center ph3 pt4">
