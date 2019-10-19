@@ -1,9 +1,8 @@
 ---
-title: 'About '
+title: About Us
 image: /img/32390662_1859641730765649_9204859349124513792_o.jpg
 values:
-  - heading: About Us
-    imageUrl: /img/18491850_1485239154872577_1995647147615642351_o.jpg
+  - imageUrl: /img/18491850_1485239154872577_1995647147615642351_o.jpg
     text: >-
       Maynooth Town FC was founded in 1969, arising from the merger of two local
       clubs – Maynooth St. Mary's and Ballygoran Utd. 
@@ -11,8 +10,7 @@ values:
 
       Legend even has it that the formation meeting took place at Feeney's
       milkstand on the Celbridge Road.
-  - heading: ' '
-    imageUrl: /img/217959_408942552502248_1928950419_n.jpg
+  - imageUrl: /img/217959_408942552502248_1928950419_n.jpg
     text: >-
       From tentative beginnings, a 50-year journey unfolded. We've enjoyed
       significant success in the Leinster Counties League and the Sheeran Cup,
@@ -35,8 +33,7 @@ values:
 
 
       Home Ground - Rathcoffey Road, Maynooth
-  - heading: Club Executive
-    imageUrl: /img/37604956_1966484276748060_7450526506205315072_o.jpg
+  - imageUrl: /img/37604956_1966484276748060_7450526506205315072_o.jpg
     text: |-
       Chairman - Gerry Folan 
 
