@@ -1,5 +1,4 @@
 import React from "react";
-import {List} from "immutable";
 import { Remarkable } from 'remarkable';
 import ReactHtmlParser from 'react-html-parser';
 
