@@ -18,19 +18,43 @@ window.menuToggle = function(){
     x.className = "topnav";
   }
 }
-
 var elem = document.querySelector('.grid');
-var msnry = new Masonry( elem, {
-  // options
-  itemSelector: '.grid-item',
-  columnWidth: '.grid-sizer',
-  percentPosition: true
-});
+if(elem){
+  var msnry = new Masonry( elem, {
+    // options
+    itemSelector: '.grid-item',
+    columnWidth: '.grid-sizer',
+    percentPosition: true
+  });
 
-var msnry = new Masonry( '.grid', {
-  // options
-});
-setTimeout(function(){
-  msnry.layout()
-},500)
+  var msnry = new Masonry( '.grid', {
+    // options
+  });
+  setTimeout(function(){
+    msnry.layout()
+  },500)
+}
+
+// homepage slider
+
+var slides = document.getElementsByClassName('bg-slide')
+
+console.log(slides)
+
+if(slides.length){
+  slides[0].className += " visible"
+  var i=0;
+  setInterval(function(){
+    console.log(i)
+    if(i < slides.length){
+      document.getElementsByClassName('visible')[0].className = 'bg-slide'
+      slides[i].className += ' visible'
+      i ++
+    }else{
+      i=0
+    }
+  },3000)
+}
+
+
 

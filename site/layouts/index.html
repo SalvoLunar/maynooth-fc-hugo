@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ partial "jumbotron-slides" (dict "images" .Params.images ) }}
+{{ partial "jumbotron-slides" (dict "images" .Params.images "title" .Title "subtitle" .Params.subtitle) }}
 
 {{ partial "short-text" (dict "blurb" .Params.blurb "welcome" .Params.welcome) }}
 

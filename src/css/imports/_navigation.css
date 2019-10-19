@@ -54,6 +54,7 @@ body{
     text-align: center;
     padding: 20px 10px;
     text-decoration: none;
+    border-bottom:5px solid #FFF;
 }
 
 /* Change the color of links on hover */
@@ -63,7 +64,7 @@ body{
     border-bottom:5px solid #ea0411;
 }
 
-.topnav a:first-child:hover {
+.topnav a:first-child, .topnav a:first-child:hover {
     border-bottom:none !important;
 }
 
