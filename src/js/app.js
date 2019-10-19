@@ -30,5 +30,7 @@ var msnry = new Masonry( elem, {
 var msnry = new Masonry( '.grid', {
   // options
 });
+setTimeout(function(){
+  msnry.layout()
+},500)
 
-msnry.layout()
