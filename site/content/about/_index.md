@@ -35,8 +35,6 @@ values:
       Home Ground - Rathcoffey Road, Maynooth
   - imageUrl: /img/37604956_1966484276748060_7450526506205315072_o.jpg
     text: |-
-      ## Club Executive
-
       Chairman - Gerry Folan 
 
       Secretary - Miriam Murphy
