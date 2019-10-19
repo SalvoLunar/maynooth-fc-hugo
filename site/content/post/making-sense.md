@@ -74,6 +74,6 @@ We're collecting and digitising all the MTFC newspaper clippings, match programm
 
 If you have a photograph, a story, a match programme, a press clipping, a game that stood out, players you admired, a reflection of your time with Maynooth Town FC – please share it with us.
 
-**Get in touch - mtfc50years@gmail.com**
+**Get in touch: mtfc50years@gmail.com**
 
-\[Going to add link to archive/gallery when ready]
+**Check out our gallery of** [**MTFC moments**](/gallery) **throughout the years.**
