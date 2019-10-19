@@ -25,7 +25,11 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: string}
-          - {label: Image, name: image, widget: image}
+          - label: Images
+            name: Images
+            widget: list
+            fields:
+              - {label: Image, name: imageUrl, widget: image}
           - {label: Welcome, name: welcome, widget: string}
           - {label: "Blurb", name: blurb, widget: markdown}
       - file: "site/content/contact/_index.md"
