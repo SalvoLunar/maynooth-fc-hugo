@@ -23,4 +23,4 @@ pictures:
     text: Some description
     title: MTFC Vs Waterford Fc
 ---
-body content
+Take a look at some memorable MTFC moments, teams and press clippings throughout our 50 years.
