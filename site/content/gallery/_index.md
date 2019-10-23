@@ -37,5 +37,8 @@ pictures:
   - imageUrl: /img/screenshot-2019-10-16-at-21.47.57.png
     text: MTFC 4 – Trim Celtic 3
     title: MTFC win Cruise Cup 19XX
+  - imageUrl: /img/screenshot-2019-10-16-at-21.54.44.png
+    text: Something re Liam's MTFC time
+    title: The late Liam Devine
 ---
 Take a look at some memorable MTFC moments, teams and press clippings throughout our 50 years.
