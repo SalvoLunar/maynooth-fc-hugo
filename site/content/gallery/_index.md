@@ -28,5 +28,14 @@ pictures:
   - imageUrl: /img/screenshot-2019-10-16-at-21.40.07.png
     text: 'Newspaper report on MTFC Vs St Teresa''s, Sheeran Cup Final.'
     title: Sheeran Cup Final 1976-77
+  - imageUrl: /img/screenshot-2019-10-16-at-21.43.15.png
+    text: Noel Kearns XXXX
+    title: Noel Kearns
+  - imageUrl: /img/screenshot-2019-10-16-at-21.40.27.png
+    text: Saturday 21 August 1982
+    title: MTFC Vs Sligo Rovers 1982
+  - imageUrl: /img/screenshot-2019-10-16-at-21.47.57.png
+    text: MTFC 4 – Trim Celtic 3
+    title: MTFC win Cruise Cup 19XX
 ---
 Take a look at some memorable MTFC moments, teams and press clippings throughout our 50 years.
