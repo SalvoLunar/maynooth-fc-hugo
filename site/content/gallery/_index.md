@@ -2,43 +2,97 @@
 title: Gallery
 pictures:
   - imageUrl: /img/217959_408942552502248_1928950419_n.jpg
-    text: Test
-    title: Title 1
-  - imageUrl: /img/40256769780_2e47de941c_z.jpg
-    text: Text
-    title: Title 2
+    text: x
+    title: x
   - imageUrl: /img/34706981_1891653880897767_1043212642409250816_n.jpg
-    text: Some tother text
-    title: Title 3
+    text: x
+    title: x
   - imageUrl: /img/37604956_1966484276748060_7450526506205315072_o.jpg
-    text: and some text
-    title: Title 6
+    text: x
+    title: x
   - imageUrl: /img/18491850_1485239154872577_1995647147615642351_o.jpg
-    text: Text
-    title: Title 4
+    text: x
+    title: x
   - imageUrl: /img/screenshot-2019-10-16-at-21.49.05.png
-    text: Description needed
-    title: Title 5
+    text: x
+    title: x
   - imageUrl: /img/screenshot-2019-10-16-at-21.56.09.png
-    text: Some description
-    title: 'Match programme, MTFC Vs Waterford FC 2019'
-  - imageUrl: /img/image-2-.png
-    text: 'Maynooth Newsletter report of David Cowhey''s signing, 1978'
-    title: David Cowhey
-  - imageUrl: /img/screenshot-2019-10-16-at-21.40.07.png
-    text: 'Newspaper report on MTFC Vs St Teresa''s, Sheeran Cup Final.'
-    title: Sheeran Cup Final 1976-77
-  - imageUrl: /img/screenshot-2019-10-16-at-21.43.15.png
-    text: Noel Kearns XXXX
-    title: Noel Kearns
-  - imageUrl: /img/screenshot-2019-10-16-at-21.40.27.png
-    text: Saturday 21 August 1982
-    title: MTFC Vs Sligo Rovers 1982
-  - imageUrl: /img/screenshot-2019-10-16-at-21.47.57.png
-    text: MTFC 4 – Trim Celtic 3
-    title: MTFC win Cruise Cup 19XX
-  - imageUrl: /img/screenshot-2019-10-16-at-21.54.44.png
-    text: Something re Liam's MTFC time
-    title: The late Liam Devine
+    text: x
+    title: x
+  - imageUrl: /img/screenshot-2020-02-09-at-19.34.53.png
+    text: x
+    title: x
+  - imageUrl: /img/screenshot-2020-02-09-at-19.32.53.png
+    text: x
+    title: x
+  - imageUrl: /img/screenshot-2020-02-09-at-19.32.24.png
+    text: x
+    title: x
+  - imageUrl: /img/screenshot-2020-02-09-at-19.28.02.png
+    text: x
+    title: x
+  - imageUrl: /img/screenshot-2020-02-09-at-19.25.53.png
+    text: x
+    title: x
+  - imageUrl: /img/screenshot-2020-02-09-at-19.25.40.png
+    text: x
+    title: x
+  - imageUrl: /img/screenshot-2020-02-09-at-19.21.33.png
+    text: x
+    title: x
+  - imageUrl: /img/screenshot-2020-02-09-at-19.25.11.png
+    text: x
+    title: x
+  - imageUrl: /img/screenshot-2020-02-09-at-19.19.51.png
+    text: x
+    title: x
+  - imageUrl: /img/screenshot-2020-02-09-at-19.24.05.png
+    text: x
+    title: x
+  - imageUrl: /img/screenshot-2020-02-09-at-19.18.22.png
+    text: x
+    title: x
+  - imageUrl: /img/screenshot-2020-02-09-at-19.19.24.png
+    text: x
+    title: x
+  - imageUrl: /img/screenshot-2020-02-09-at-19.17.21.png
+    text: x
+    title: x
+  - imageUrl: /img/screenshot-2020-02-09-at-19.15.06.png
+    text: x
+    title: x
+  - imageUrl: /img/screenshot-2020-02-09-at-19.14.24.png
+    text: x
+    title: x
+  - imageUrl: /img/screenshot-2020-02-09-at-19.13.27.png
+    text: x
+    title: x
+  - imageUrl: /img/screenshot-2020-02-09-at-19.13.00.png
+    text: x
+    title: x
+  - imageUrl: /img/screenshot-2020-02-09-at-19.14.10.png
+    text: x
+    title: x
+  - imageUrl: /img/screenshot-2020-02-09-at-19.12.45.png
+    text: x
+    title: x
+  - imageUrl: /img/screenshot-2020-02-09-at-19.12.04.png
+    text: x
+    title: x
+  - imageUrl: /img/screenshot-2020-02-09-at-19.10.31.png
+    text: x
+    title: x
+  - imageUrl: /img/screenshot-2020-02-09-at-19.11.19.png
+    text: x
+    title: x
+  - imageUrl: /img/screenshot-2020-02-09-at-19.09.55.png
+    text: x
+    title: x
+  - imageUrl: /img/screenshot-2020-02-09-at-19.09.03.png
+    text: x
+    title: x
+  - imageUrl: /img/maynooth.jpg
+    text: x
+    title: x
 ---
 Take a look at some memorable MTFC moments, teams and press clippings throughout our 50 years.
