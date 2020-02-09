@@ -1,5 +1,5 @@
 ---
-title: Gallery
+title: 'Gallery '
 pictures:
   - imageUrl: /img/217959_408942552502248_1928950419_n.jpg
     text: ''
@@ -95,4 +95,4 @@ pictures:
     text: ''
     title: ''
 ---
-Take a look at some memorable MTFC moments, teams and press clippings throughout our 50 years.
+Have some great MUTFC images from down the years to share with us? Get in touch!
