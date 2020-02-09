@@ -32,7 +32,7 @@ if(elem){
   });
   setTimeout(function(){
     msnry.layout()
-  },500)
+  },1000)
 }
 
 // homepage slider
