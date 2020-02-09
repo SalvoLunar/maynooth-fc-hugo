@@ -32,6 +32,8 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Image, name: imageUrl, widget: image}
           - {label: Welcome, name: welcome, widget: string}
           - {label: "Blurb", name: blurb, widget: markdown}
+          - {label: About, name: about, widget: string}
+          - {label: "About Content", name: about_content, widget: markdown}
       - file: "site/content/contact/_index.md"
         label: "Contact Page"
         name: "contact"
