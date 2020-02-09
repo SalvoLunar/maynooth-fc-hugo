@@ -14,7 +14,13 @@ blurb: >-
   their ability. 
 
 
-  With 2019 our 50th anniversary year, we're proud to be celebrating five
-  decades of  football, sportsmanship and community in Maynooth.
+  We have over 35 teams including, schoolboys and schoolgirls in the NDSL and
+  MGL leagues, KDSL over 35’s, and our seniors Maynooth University Town - a
+  collaboration of club and university, competing at the highest level in the
+  Leinster Senior League.
+
+
+  In 2019 we celebrated our momentous 50th anniversary year. We're proud to have
+  celebrated five decades of football, sportsmanship and community in Maynooth.
 ---
 
