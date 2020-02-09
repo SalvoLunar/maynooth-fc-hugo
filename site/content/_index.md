@@ -3,10 +3,10 @@ title: Maynooth Town Football Club
 subtitle: 1969-2019
 images:
   - imageUrl: /img/40256769780_2e47de941c_z.jpg
-  - imageUrl: /img/32390662_1859641730765649_9204859349124513792_o.jpg
-  - imageUrl: /img/34706981_1891653880897767_1043212642409250816_n.jpg
-  - imageUrl: /img/37604956_1966484276748060_7450526506205315072_o.jpg
-  - imageUrl: /img/download.jpeg
+  - imageUrl: /img/screenshot-2020-02-09-at-19.18.22.png
+  - imageUrl: /img/screenshot-2020-02-09-at-19.09.55.png
+  - imageUrl: /img/screenshot-2020-02-09-at-19.25.11.png
+  - imageUrl: /img/screenshot-2020-02-09-at-19.32.24.png
 welcome: 50 Years of Football
 blurb: >-
   Maynooth Town F.C. is a vibrant community club that provides everyone with the
@@ -22,18 +22,5 @@ blurb: >-
 
   In 2019 we celebrated our momentous 50th anniversary year. We're proud to have
   celebrated five decades of football, sportsmanship and community in Maynooth.
-about: Club Executive
-about_content: |-
-  Chairman - Gerry Folan
-
-  Secretary - Miriam Murphy
-
-  Treasurer - Hugh Franklin
-
-  Fixtures Secretary - Clive Moran
-
-  LSL MUTFC Seniors - Noel Dempsey
-
-  KFL MTFC Seniors - Seamus Kearney
 ---
 
