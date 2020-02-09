@@ -45,6 +45,7 @@ body{
     flex-direction: row;
     align-content: right;
     justify-content: flex-end;
+    box-shadow: rgba(0.1,0.1,0.1,0.1) 10px 10px 10px;
 }
 
 /* Style the links inside the navigation bar */

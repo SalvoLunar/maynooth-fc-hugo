@@ -6,6 +6,7 @@
 
 .grid{
     padding-bottom:50px;
+    min-height: 500px;
 }
 
 /* fluid 5 columns */
