@@ -1,6 +1,6 @@
 ---
 title: Maynooth Town Football Club
-subtitle: 1969-2019
+subtitle: 1969-2020
 images:
   - imageUrl: /img/40256769780_2e47de941c_z.jpg
   - imageUrl: /img/screenshot-2020-02-09-at-19.18.22.png
