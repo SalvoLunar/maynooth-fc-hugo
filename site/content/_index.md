@@ -22,7 +22,7 @@ blurb: >-
 
   In 2019 we celebrated our momentous 50th anniversary year. We're proud to have
   celebrated five decades of football, sportsmanship and community in Maynooth.
-about: Management
+about: Club Executive
 about_content: |-
   Chairman - Gerry Folan
 
