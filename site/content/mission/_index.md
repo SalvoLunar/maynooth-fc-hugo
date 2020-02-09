@@ -1,6 +1,6 @@
 ---
 title: Our Mission
-image: /img/32390662_1859641730765649_9204859349124513792_o.jpg
+image: /img/screenshot-2020-02-09-at-19.12.04.png
 statements:
   - heading: Welfare and Development
     imageUrl: /img/the-ball-488714_1920.jpg
