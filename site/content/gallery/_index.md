@@ -2,8 +2,8 @@
 title: Gallery
 pictures:
   - imageUrl: /img/217959_408942552502248_1928950419_n.jpg
-    text: x
-    title: x
+    text: ''
+    title: ''
   - imageUrl: /img/34706981_1891653880897767_1043212642409250816_n.jpg
     text: x
     title: x
