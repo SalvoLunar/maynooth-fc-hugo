@@ -15,7 +15,7 @@ values:
       From tentative beginnings, a 50-year journey unfolded. We've enjoyed
       significant success in the Leinster Counties League and the Sheeran Cup,
       and won the Polikoff Junior Cup in 2014.
-  - imageUrl: /img/217959_408942552502248_1928950419_n.jpg
+  - imageUrl: /img/screenshot-2020-02-09-at-19.21.33.png
     text: >-
       While our seniors, Maynooth University Town, brought us all the way to the
       FAI Intermediate Cup Final in the Aviva Stadium in 2018, defeating
