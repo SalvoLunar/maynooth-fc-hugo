@@ -10,7 +10,7 @@ contact_entries:
 
       Phone: 
 
-       (0861060654) Secretary Miriam Murphy
+      Secretary, Miriam Murphy 086 1060654
 ---
 # How to Find Us
 
