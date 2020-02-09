@@ -43,8 +43,6 @@ values:
 
       Fixtures Secretary - Clive Moran
 
-      Clubhouse Facilities - Helen O'Carroll
-
       LSL MUTFC Seniors - Noel Dempsey
 
       KFL MTFC Seniors - Seamus Kearney
