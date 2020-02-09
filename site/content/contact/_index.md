@@ -4,9 +4,13 @@ logo: /img/maynooth-fc-logo.png
 contact_entries:
   - heading: Contact
     text: |-
-      email: 
+      Email: 
 
       [info@maynoothtownfc.ie](mailto:info@maynoothfc.com)
+
+      Phone: 
+
+       (0861060654) Secretary Miriam Murphy
 ---
 # How to Find Us
 
