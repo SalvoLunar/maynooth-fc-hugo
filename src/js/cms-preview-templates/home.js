@@ -18,6 +18,12 @@ export default class PostPreview extends React.Component {
             <div className="text-center center">{ widgetFor("blurb") }</div>
           </div>
         </div>
+        <div className="bg-white-1 pv4">
+          <div className="mhn1-l ph3 center mw7">
+            <h2 className="f2 b lh-title mb2 text-center center">{entry.getIn(["data", "about"])}</h2>
+            <div className="text-center center">{ widgetFor("about_content") }</div>
+          </div>
+        </div>
     </div>
   }
 }
