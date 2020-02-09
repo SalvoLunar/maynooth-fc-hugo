@@ -14,7 +14,7 @@ statements:
       We promote and support the sustainable development of our club through the
       active participation of our valued members.
   - heading: High Standards
-    imageUrl: /img/217959_408942552502248_1928950419_n.jpg
+    imageUrl: /img/screenshot-2020-02-09-at-19.09.55.png
     text: >-
       We aspire to the highest standards in governance, management,
       accountability and volunteering.
