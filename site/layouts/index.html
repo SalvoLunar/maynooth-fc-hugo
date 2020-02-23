@@ -3,9 +3,9 @@
 {{ partial "jumbotron-slides" (dict "images" .Params.images "title" .Title "subtitle" .Params.subtitle) }}
 
 {{ partial "short-text" (dict "blurb" .Params.blurb "welcome" .Params.welcome) }}
-
+{{ if .Params.about}}
 {{ partial "short-text-about" (dict "about" .Params.about "about_content" .Params.about_content) }}
-
+{{end}}
 {{ partial "social-feed"}}
 
 {{ end }}
