@@ -22,18 +22,7 @@ blurb: >-
 
   In 2019 we celebrated our momentous 50th anniversary year. We're proud to have
   celebrated five decades of football, sportsmanship and community in Maynooth.
-about: Club Executive
-about_content: |-
-  Chairman - Gerry Folan
-
-  Secretary - Miriam Murphy
-
-  Treasurer - Hugh Franklin
-
-  Fixtures Secretary - Clive Moran
-
-  LSL MUTFC Seniors - Noel Dempsey
-
-  KFL MTFC Seniors - Seamus Kearney
+about: ''
+about_content: ''
 ---
 
