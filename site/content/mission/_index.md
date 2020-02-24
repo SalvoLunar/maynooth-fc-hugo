@@ -1,7 +1,11 @@
 ---
 title: Our Mission
-meta: Maynooth Town Football Club
-keywords: Maynooth,Town,Football Club
+meta: >-
+  Maynooth Town Football Club's primary focus is on player welfare and
+  development, to be inclusive of the community; and to provide equal
+  opportunities for participation, development and achievement in football at
+  all levels.
+keywords: 'Maynooth,Town,Football Club, Community, Inclusivity'
 image: /img/screenshot-2020-02-09-at-19.12.04.png
 statements:
   - heading: Welfare and Development
