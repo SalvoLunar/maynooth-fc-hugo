@@ -1,7 +1,9 @@
 ---
 title: About Us
-meta: Maynooth Town Football Club
-keywords: Maynooth,Town,Football Club
+meta: >-
+  Maynooth Town FC was founded in 1969, arising from the merger of two local
+  clubs – Maynooth St. Mary's and Ballygoran Utd.
+keywords: 'Maynooth,Town,Football Club, 50 years journey'
 image: /img/32390662_1859641730765649_9204859349124513792_o.jpg
 values:
   - imageUrl: /img/18491850_1485239154872577_1995647147615642351_o.jpg

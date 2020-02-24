@@ -1,7 +1,7 @@
 ---
 title: Contact
-meta: Maynooth Town Football Club
-keywords: Maynooth,Town,Football Club
+meta: 'Maynooth Town FC, Rathcoffey Road, Maynooth, Co. Kildare'
+keywords: 'Maynooth,Town,Football Club, Contact Us'
 logo: /img/maynooth-fc-logo.png
 contact_entries:
   - heading: Contact

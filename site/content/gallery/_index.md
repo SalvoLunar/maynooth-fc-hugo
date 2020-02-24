@@ -1,7 +1,7 @@
 ---
 title: 'Gallery '
-meta: Maynooth Town Football Club
-keywords: Maynooth,Town,Football Club
+meta: Maynooth Town Football Club great MTFC images
+keywords: 'Maynooth,Town,Football Club, Photos'
 pictures:
   - imageUrl: /img/217959_408942552502248_1928950419_n.jpg
     text: ''
