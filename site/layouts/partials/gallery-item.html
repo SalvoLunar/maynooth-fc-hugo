@@ -1,7 +1,7 @@
 <div class="grid-item">
   <a data-fancybox="gallery" data-caption="{{if .title}}{{.title}}{{end}} - {{.text | markdownify}}" href="{{.imageUrl}}" class="fancybox padding-wrapper">
     <div class="picture">
-      <img src="{{.imageUrl}}" alt="" class="image">
+      <img src="/img/1.gif" data-src="{{ .imageUrl }}" data-srcset="{{ .imageUrl }} 2x, {{ .imageUrl }} 1x" alt="{{if .title}}{{.title}}{{end}}" class="image lazy">
     </div>
     {{if .title}}
     <div class="text-content">
