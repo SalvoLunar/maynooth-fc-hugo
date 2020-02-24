@@ -1,14 +1,16 @@
 ---
 title: Contact
+meta: Maynooth Town Football Club
+keywords: Maynooth,Town,Football Club
 logo: /img/maynooth-fc-logo.png
 contact_entries:
   - heading: Contact
     text: |-
-      Email: 
+      Email:
 
       [info@maynoothtownfc.ie](mailto:info@maynoothfc.com)
 
-      Phone: 
+      Phone:
 
       Secretary, Miriam Murphy 086 1060654
 ---

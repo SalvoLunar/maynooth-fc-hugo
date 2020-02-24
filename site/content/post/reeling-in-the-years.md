@@ -1,11 +1,13 @@
 ---
 title: 'Reeling in the Years: Digitising Our History'
+meta: Maynooth Town Football Club
+keywords: Maynooth,Town,Football Club
 date: 2019-10-13T09:53:46.258Z
 thumbnail: /img/18491850_1485239154872577_1995647147615642351_o.jpg
 description: >-
   As we're celebrating our 50th anniversary year, we're collecting and
   digitising all the MTFC newspaper clippings, match programmes, photos and
-  paraphernalia from 1969 to today that we can get our hands on. 
+  paraphernalia from 1969 to today that we can get our hands on.
 
 
   And we need your help!
@@ -20,9 +22,9 @@ The story of our club is ever unfolding and is never stuck in one moment in time
 
 ![](/img/screenshot-2019-10-16-at-21.49.05.png)
 
-That's why to celebrate our 50th year, we want to capture that history, to reflect on the experiences with club, the memories and the many stories. 
+That's why to celebrate our 50th year, we want to capture that history, to reflect on the experiences with club, the memories and the many stories.
 
-We have started to gather an archive of material and photographs but we're certain that there's even more out there. So many people have had the enjoyable experience of playing for and being part of the Town over the years, so your input is invaluable! 
+We have started to gather an archive of material and photographs but we're certain that there's even more out there. So many people have had the enjoyable experience of playing for and being part of the Town over the years, so your input is invaluable!
 
 We would be delighted if people would share their club experiences and memories with us, so if you have a photograph, a story, a match programme, a press clipping, a game that stood out, players you admired, a reflection of your time with Maynooth Town FC – please share it with us.
 

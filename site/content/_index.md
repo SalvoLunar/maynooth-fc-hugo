@@ -1,5 +1,7 @@
 ---
 title: Maynooth Town Football Club
+meta: Maynooth Town Football Club
+keywords: Maynooth,Town,Football Club
 subtitle: 1969-2020
 images:
   - imageUrl: /img/40256769780_2e47de941c_z.jpg
@@ -11,7 +13,7 @@ welcome: 50 Years of Football
 blurb: >-
   Maynooth Town F.C. is a vibrant community club that provides everyone with the
   opportunity to participate in and enjoy the game at a level that reflects
-  their ability. 
+  their ability.
 
 
   We have over 35 teams including, schoolboys and schoolgirls in the NDSL and

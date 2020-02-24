@@ -11,6 +11,8 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
+      - {label: Meta, name: meta, widget: string}
+      - {label: Keywords, name: keywords, widget: string}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Thumbnail Image", name: "thumbnail", widget: "image"}
       - {label: "Intro Blurb", name: "description", widget: "text"}
@@ -24,6 +26,8 @@ collections: # A list of collections the CMS should be able to edit
         name: "home"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Meta, name: meta, widget: string}
+          - {label: Keywords, name: keywords, widget: string}
           - {label: Subtitle, name: subtitle, widget: string}
           - label: Images
             name: images
@@ -39,6 +43,8 @@ collections: # A list of collections the CMS should be able to edit
         name: "contact"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Meta, name: meta, widget: string}
+          - {label: Keywords, name: keywords, widget: string}
           - {label: Logo, name: logo, widget: image}
           - {label: Body, name: body, widget: markdown}
           - label: Contact Entries
@@ -56,6 +62,8 @@ collections: # A list of collections the CMS should be able to edit
         name: "about"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Meta, name: meta, widget: string}
+          - {label: Keywords, name: keywords, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Values
             name: values
@@ -68,6 +76,8 @@ collections: # A list of collections the CMS should be able to edit
         name: "mission"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Meta, name: meta, widget: string}
+          - {label: Keywords, name: keywords, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Statements
             name: statements
@@ -81,6 +91,8 @@ collections: # A list of collections the CMS should be able to edit
         name: "gallery"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Meta, name: meta, widget: string}
+          - {label: Keywords, name: keywords, widget: string}
           - {label: Body, name: body, widget: markdown}
           - label: Pictures
             name: pictures

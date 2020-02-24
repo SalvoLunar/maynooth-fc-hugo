@@ -1,5 +1,7 @@
 ---
 title: Reflecting on 50 years of MTFC
+meta: Maynooth Town Football Club
+keywords: Maynooth,Town,Football Club
 date: 2019-10-16T14:04:10.000Z
 thumbnail: /img/screenshot-2019-10-16-at-21.49.05.png
 description: >-
@@ -42,13 +44,13 @@ On the football field, after a tentative start to our competitive campaign, the 
 * Winners, Giffney Cup '82-83
 * Div 2 Saturday winners '82-83
 
-Some of our players went on to play at the very highest level. **David Cowhey** signed for Bohemians as an 18 year-old right winger. 
+Some of our players went on to play at the very highest level. **David Cowhey** signed for Bohemians as an 18 year-old right winger.
 
 Below is an excerpt of the January/February 1978 edition of the Maynooth Newsletter, reporting on Cowhey's signing.
 
 ![Maynooth Newsletter 76-77](/img/image-2-.png "David Cowhey")
 
-Bohemians' then-manager, Billy Young was quoted at the time as saying: 
+Bohemians' then-manager, Billy Young was quoted at the time as saying:
 
 _"David has a big future ahead of him and we have been chasing him for along time._"
 

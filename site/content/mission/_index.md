@@ -1,5 +1,7 @@
 ---
 title: Our Mission
+meta: Maynooth Town Football Club
+keywords: Maynooth,Town,Football Club
 image: /img/screenshot-2020-02-09-at-19.12.04.png
 statements:
   - heading: Welfare and Development
