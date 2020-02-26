@@ -1,12 +1,12 @@
 <div class="grid-item">
-  <a data-fancybox="gallery" data-caption="{{if .title}}{{.title}}{{end}} - {{.text | markdownify}}" href="{{.imageUrl}}" class="fancybox padding-wrapper">
+  <a data-fancybox="gallery" data-caption="{{if .title}}{{.title}} - {{.text | markdownify}}{{end}}" href="{{.imageUrl}}" class="fancybox padding-wrapper">
     <div class="picture">
       <img src="/img/1.gif" data-src="{{ .imageUrl }}" data-srcset="{{ .imageUrl }} 2x, {{ .imageUrl }} 1x" alt="{{if .title}}{{.title}}{{end}}" class="image lazy">
     </div>
     {{if .title}}
     <div class="text-content">
       {{if .title}}<h3 class="text-content-title">{{.title}}</h3>{{end}}
-      <div>{{.text | markdownify}}</div>
+      {{if .text}}<div>{{.text | markdownify}}</div>{{end}}
     </div>
     {{end}}
   </a>
