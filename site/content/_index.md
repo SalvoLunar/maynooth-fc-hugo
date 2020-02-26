@@ -8,10 +8,10 @@ keywords: 'Maynooth Town,Football Club, Vibrant, Community'
 subtitle: 1969-2020
 images:
   - imageUrl: /img/40256769780_2e47de941c_z.jpg
-  - imageUrl: /img/screenshot-2020-02-09-at-19.25.40.png
+  - imageUrl: /img/screenshot-2020-02-09-at-19.32.24.png
   - imageUrl: /img/screenshot-2020-02-09-at-19.09.55.png
   - imageUrl: /img/screenshot-2020-02-09-at-22.12.39.png
-  - imageUrl: /img/screenshot-2020-02-09-at-19.32.24.png
+  - imageUrl: /img/68499078_2628361207227027_1045693106281775104_n.jpg
 welcome: 50 Years of Football
 blurb: >-
   Maynooth Town F.C. is a vibrant community club that provides everyone with the
