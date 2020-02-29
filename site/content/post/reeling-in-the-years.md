@@ -1,7 +1,7 @@
 ---
 title: 'Reeling in the Years: Digitising Our History'
-meta: Maynooth Town Football Club
-keywords: Maynooth,Town,Football Club
+meta: ' all the MTFC newspaper clippings, match programmes, photos and paraphernalia from 1969 to today'
+keywords: 'Maynooth,Town,Football Club, Photos, paraphernalia'
 date: 2019-10-13T09:53:46.258Z
 thumbnail: /img/18491850_1485239154872577_1995647147615642351_o.jpg
 description: >-

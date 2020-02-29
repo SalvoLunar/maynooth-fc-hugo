@@ -1,7 +1,7 @@
 ---
 title: Reflecting on 50 years of MTFC
-meta: Maynooth Town Football Club
-keywords: Maynooth,Town,Football Club
+meta: Lenny Murphy looks back on MTFC's 50-year journey
+keywords: 'Maynooth,Town,Football Club, 50 Years of MTFC'
 date: 2019-10-16T14:04:10.000Z
 thumbnail: /img/screenshot-2019-10-16-at-21.49.05.png
 description: >-
