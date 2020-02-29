@@ -20,10 +20,17 @@
 	<meta name="description" content="{{ .Params.meta }}">
 	<meta name="keywords" content="{{ .Params.keywords }}">
 	<!-- Open Graph -->
-	<meta property="og:type" content="business.business">
-	<meta property="og:title" content="Maynooth Football Club | 1969 - 2020">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="{{ .Title }} | Maynooth Town Football Club">
 	<meta property="og:url" content="https://maynoothtownfc.ie/">
-	<meta property="og:image" content="/img/og-image.jpg">
+	<meta property="og:image" content="https://maynoothtownfc.ie/img/og-image.jpg">
+	<meta property="og:description" content="{{ .Params.meta }}">
+	<meta property="business:contact_data:street_address" content="Rathcoffey Road">
+	<meta property="business:contact_data:locality" content="Maynooth">
+	<meta property="business:contact_data:region" content="Co. Kildare">
+	<meta property="business:contact_data:postal_code" content="W23 R302">
+	<meta property="business:contact_data:country_name" content="Ireland">
+
 
 	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 	<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
