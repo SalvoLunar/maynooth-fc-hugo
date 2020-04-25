@@ -5,7 +5,7 @@ meta: >-
   club President, our friend and our colleague.
 keywords: 'Mick Dempsey, Maynooth Town FC'
 date: 2020-04-20T16:41:00.000Z
-thumbnail: /img/screenshot-2020-04-25-at-17.43.05.png
+thumbnail: /img/mick-dempsey.png
 description: >-
   It is with great sadness today, we learn of the death of Mícheál Dempsey, our
   club President, our friend and our colleague.
