@@ -27,7 +27,13 @@ blurb: >-
 
   In 2019 we celebrated our momentous 50th anniversary year. We’re proud to have
   celebrated five decades of football, sportsmanship and community in Maynooth.
-about: ''
-about_content: ''
+about: COVID-19 | Training Protocols
+about_content: >-
+  ![MTFC Covid Training Guide](/img/whatsapp-image-2020-06-18-at-9.48.37-am.jpeg
+  "MTFC Covid Training Guide")
+
+
+  Download the FAI's Safer Return to Training Guide
+  [here](https://www.fai.ie/domestic/news/download-safer-return-to-training-guide).
 ---
 
