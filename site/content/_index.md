@@ -33,7 +33,11 @@ about_content: >-
   "MTFC Covid Training Guide")
 
 
-  Download the FAI's Safer Return to Training Guide
-  [here](https://www.fai.ie/domestic/news/download-safer-return-to-training-guide).
+  The FAI's Safer Return to Training Guide has been updated further, 25 June
+  2020.
+
+
+  Download the **updated** version
+  [**here**](file:///Users/sarahfolan/Downloads/FAI%20Updated%20Return%20to%20Training%20Protocol%202nd%20Edition.pdf)**.**
 ---
 
