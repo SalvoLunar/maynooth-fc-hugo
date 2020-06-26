@@ -38,6 +38,6 @@ about_content: >-
 
 
   Download the **updated** version
-  [**here**](file:///Users/sarahfolan/Downloads/FAI%20Updated%20Return%20to%20Training%20Protocol%202nd%20Edition.pdf)**.**
+  [**here**](https://raw.githubusercontent.com/SalvoLunar/maynooth-fc-hugo/master/site/static/img/fai-updated-return-to-training-protocol-2nd-edition.pdf)**.**
 ---
 
