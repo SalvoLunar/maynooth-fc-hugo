@@ -12,7 +12,7 @@ images:
   - imageUrl: /img/screenshot-2020-02-09-at-19.09.55.png
   - imageUrl: /img/screenshot-2020-02-09-at-22.12.39.png
   - imageUrl: /img/68499078_2628361207227027_1045693106281775104_n.jpg
-welcome: MTFC COVID-19 Update | 08.08.20
+welcome: MTFC COVID-19 Update 08.08.20
 blurb: >-
   We have considered the exemption regarding training and have decided to
   suspend all organised training activities for the next two weeks in the
