@@ -20,7 +20,7 @@ blurb: >-
 
 
   The Club have drawn up a Code of Principles & Best Practice document to
-  outline what we regard as best practice for our club and we invite everyone to
+  outline what we regard as best practice for our club. We invite everyone to
   become familiar with these principles. 
 
 
