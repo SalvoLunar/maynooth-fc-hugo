@@ -29,7 +29,8 @@ blurb: >-
   miriammtfc@outlook.com
 
 
-  Read the Code of Principles & Best Practice document in full here.
+  Read the Code of Principles & Best Practice document in full
+  [here](https://raw.githubusercontent.com/SalvoLunar/maynooth-fc-hugo/master/site/static/img/mtfc-code-of-principles-and-best-practice-nov2020.pdf).
 
 
   MTFC Executive | November 2020
