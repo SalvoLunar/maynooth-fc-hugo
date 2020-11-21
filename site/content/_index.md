@@ -29,11 +29,11 @@ blurb: >-
   miriammtfc@outlook.com
 
 
-  Read the Code of Principles & Best Practice document in full
-  [here](https://raw.githubusercontent.com/SalvoLunar/maynooth-fc-hugo/master/site/static/img/mtfc-code-of-principles-and-best-practice-nov2020.pdf).
+  **Download the Code of Principles & Best Practice document**
+  [**here**](https://raw.githubusercontent.com/SalvoLunar/maynooth-fc-hugo/master/site/static/img/mtfc-code-of-principles-and-best-practice-nov2020.pdf)**.**
 
 
-  MTFC Executive | November 2020
+  **MTFC Executive | November 2020**
 about: COVID-19 | Training Protocols *Updated*
 about_content: >-
   ![MTFC Covid Training Guide](/img/whatsapp-image-2020-06-18-at-9.48.37-am.jpeg
