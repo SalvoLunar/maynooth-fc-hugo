@@ -5,7 +5,7 @@ meta: >-
   opportunity to participate in and enjoy the game at a level that reflects
   their ability.
 keywords: 'Maynooth Town,Football Club, Vibrant, Community'
-subtitle: 1969-2020
+subtitle: 1969-2021
 images:
   - imageUrl: /img/40256769780_2e47de941c_z.jpg
   - imageUrl: /img/screenshot-2020-02-09-at-19.32.24.png
