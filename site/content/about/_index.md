@@ -189,5 +189,16 @@ values:
       **U13C Girls - Year Born 2009/2010**
 
       John Canny | 086 3491010
+  - imageUrl: /img/64856738_2539399829456499_8077399827987562496_n.jpg
+    text: |-
+      ## MGL League: 11 a side
+
+      **U14 Premier Girls - Year Born 2008**
+
+      Fran Dorman/ Anthony Whitty | 087 1319402/ 087 4108309
+
+      **U16A Girls - Year Born 2006**
+
+      Serge Tureau | 085 1110654
 ---
 
