@@ -31,5 +31,27 @@ statements:
       financial resources necessary to achieve our goal for continuous
       development; and to uphold our standards and facilities. We do all of this
       for the benefit of our members and the wider community.
+  - heading: Codes of Principles & Best Practice
+    imageUrl: /img/65054141_2539400102789805_2308267329273724928_n.jpg
+    text: >-
+      Maynooth Town FC is a community club that supports the opportunity for all
+      young players in our community to participate in, develop their skills and
+      enjoy soccer at a level appropriate to their ability.
+
+
+      The Club have drawn up a Code of Principles & Best Practice document to
+      outline what we regard as best practice for our club. We invite everyone
+      to become familiar with these principles.
+
+
+      If your son or daughter is interested in playing soccer, please contact
+      the Club Secretary, Miriam Murphy, on 086-1060654 or by email:
+      miriammtfc@outlook.com
+
+
+      **Download the Code of Principles & Best Practice document here.**
+
+
+      **MTFC Executive | November 2020**
 ---
 
