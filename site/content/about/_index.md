@@ -39,16 +39,26 @@ values:
       Home Ground - Rathcoffey Road, Maynooth
   - imageUrl: /img/37604956_1966484276748060_7450526506205315072_o.jpg
     text: |-
-      Chairman - Gerry Folan
+      **Executive Committee**
 
-      Secretary - Miriam Murphy
+      Chair - Michael Doyle: 087 8298324
 
-      Treasurer - Hugh Franklin
+      Vice-Chair/ Child Welfare/ Covid Officer - Keith Farrell: 087 2460364
 
-      Fixtures Secretary - Clive Moran
+      Secretary/ Registrar - Miriam Murphy: 086 1060654
 
-      LSL MUTFC Seniors - Noel Dempsey
+      Treasurer - Hugh Franklin: 087 2456870
 
-      KFL MTFC Seniors - Seamus Kearney
+      Fundraising - Fiachra Kirwan: 086 7812609
+
+      Coach & Player Development - Clive Moran: 087 7904707
+
+      Fixtures Secretary - Keith Byrne: 087 2289200
+
+      Nursery & Camps - Aibhínn Conway: 085 1265551
+
+      Communications/ PRO - Aisling Folan: 087 7951199
+
+      Facilities - Colm Ledwidge: 086 4002079
 ---
 
