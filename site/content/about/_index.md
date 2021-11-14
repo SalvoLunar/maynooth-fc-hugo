@@ -134,5 +134,28 @@ values:
       **11 a side: U18P Sunday - Boys - Year Born 2004**
 
       Brian McHale | 087 2749639
+
+      **11 a side: U18B Sunday - Boys - Year Born 2004**
+
+      Owen McCarthy | 085 1592851
+  - imageUrl: /img/71533106_2700048613391619_1461203781688492032_n.jpg
+    text: |-
+      ## MGL League: 5 a side
+
+      **U8 Girls - Year Born 2014**
+
+      Alvaro Blasco | 087 6565493
+
+      **U8 Girls - Year Born 2014**
+
+      David Coughlan | 087 0627603
+
+      **U8 Girls - Year Born 2014**
+
+      Colin Moane | 086 8528655
+
+      **U9 Girls - Year Born 2013**
+
+      Terence O'Rourke/ Neasa Boyle | 086 8711647/ 087 3285313
 ---
 
