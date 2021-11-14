@@ -211,5 +211,24 @@ values:
       **U15 Saturday Boys - Year Born 2007**
 
       Alex Lockwood | 086 8340770
+  - imageUrl: /img/download.jpeg
+    text: |-
+      ## Seniors: 11 a side
+
+      **Over 35s Men - KDFL League**
+
+      Brendan O'Toole | 086 0831746
+
+      **Seniors Men - Senior Sunday - LSL**
+
+      Shane Harte | 087 1852124
+
+      **Seniors Men - Major Saturday - LSL**
+
+      Fergal Barton | 087 2573269
+
+      **Seniors Men - Premier 1A - LSL**
+
+      Paul Hartnett/ Tom Hopkins | 086 8145855/ 089 4564507
 ---
 
