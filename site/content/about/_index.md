@@ -157,5 +157,26 @@ values:
       **U9 Girls - Year Born 2013**
 
       Terence O'Rourke/ Neasa Boyle | 086 8711647/ 087 3285313
+  - imageUrl: /img/screenshot-2020-02-09-at-19.10.31.png
+    text: |-
+      ## MGL League: 7 a side
+
+      **U10 Magenta Girls - Year Born 2012**
+
+      Ian Hargadon/ Michael Howell | 086 8537019/ 086 7784483
+
+      **U10 Cyan Girls - Year Born 2012**
+
+      Anthony Graham/ Declan Cotter | 085 1463883/ 087 1319922
+
+      **U11P Girls - Year Born 2011**
+
+      Zelda Corcoran | 086 1212627
+
+      **U11A Girls - Year Born 2011**
+
+      Irene Kearney | 087 7778017
+
+      ****
 ---
 
