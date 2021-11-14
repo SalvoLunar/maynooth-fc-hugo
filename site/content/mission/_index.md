@@ -49,7 +49,8 @@ statements:
       miriammtfc@outlook.com
 
 
-      **Download the Code of Principles & Best Practice document here.**
+      **Download the Code of Principles & Best Practice document**
+      [**here**](maynoothtownfc.ie/mtfc-code-of-principles-and-best-practice-nov2020.pdf)**.**
 
 
       **MTFC Executive | November 2020**
