@@ -200,5 +200,16 @@ values:
       **U16A Girls - Year Born 2006**
 
       Serge Tureau | 085 1110654
+  - imageUrl: /img/screenshot-2020-02-09-at-19.12.04.png
+    text: |-
+      ## KDUL League: 11 a side
+
+      **U17 Saturday Premier Boys - Year Born 2005**
+
+      Peter Egan | 086 8189821
+
+      **U15 Saturday Boys - Year Born 2007**
+
+      Alex Lockwood | 086 8340770
 ---
 
