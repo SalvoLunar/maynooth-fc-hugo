@@ -34,17 +34,23 @@ blurb: >-
 
 
   **MTFC Executive | November 2020**
-about: COVID-19 | Training Protocols *Updated*
+about: Q&A Evening with Manchester Utd. Legends | 25 November
 about_content: >-
-  ![MTFC Covid Training Guide](/img/whatsapp-image-2020-06-18-at-9.48.37-am.jpeg
-  "MTFC Covid Training Guide")
+  Book your tickets to attend our Q&A evening with Wes Brown and Brian McClair!
 
 
-  The FAI's Safer Return to Training Guide has been updated further, 25 June
-  2020.
+  In partnership with the Glenroyal Hotel, MTFC present an evening with these
+  two Manchester United legends. With 9 Premier League medals and 20 major
+  trophies between them, the pair will spend an evening in Maynooth sharing
+  their stories, craic and memories from their times at United. Pete Boyle, the
+  famous Manchester United song writer will MC the event and ensure we get the
+  best and worst stories from the legends.
 
 
-  Download the **updated** version
-  [**here**](https://raw.githubusercontent.com/SalvoLunar/maynooth-fc-hugo/master/site/static/img/fai-updated-return-to-training-protocol-2nd-edition.pdf)**.**
+  **Book tickets**
+  [**here**](https://www.eventbrite.ie/e/manchester-united-legends-night-with-maynooth-town-fc-tickets-185727635357?aff=ebdssbdestsearch)**!**
+
+
+  ![](/img/mtfc-q-a-evening-with-manchester-united-legends.jpeg)
 ---
 
