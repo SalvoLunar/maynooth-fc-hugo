@@ -178,5 +178,16 @@ values:
       Irene Kearney | 087 7778017
 
       ****
+  - imageUrl: /img/71200307_2714830018580145_8529115969597997056_n.jpg
+    text: |-
+      ## MGL League: 9 a side
+
+      **U13A Girls - Year Born 2009/2010**
+
+      Carolyn Egan | 086 3734120
+
+      **U13C Girls - Year Born 2009/2010**
+
+      John Canny | 086 3491010
 ---
 
