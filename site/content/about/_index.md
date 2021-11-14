@@ -60,5 +60,7 @@ values:
       Communications/ PRO - Aisling Folan: 087 7951199
 
       Facilities - Colm Ledwidge: 086 4002079
+  - imageUrl: /img/65054141_2539400102789805_2308267329273724928_n.jpg
+    text: "## **Manager Contacts**\n\n**Nursery - Boys and Girls** **\\- Year Born 2015/2016/2017**\n\nAibhínn Conway - 085-1265551\n\n\n\n## **NDSL League** \n\n**5 a side: U8 Saturday - Boys - Year Born 2014**\n\nTony Rudden/ Colin Wilson | 086 8322578/ 085 2234845\n\n**5 a side: U8 Saturday - Boys - Year Born 2014**\t\n\nAidan McGreevy/ Rob Levins | 086 8062393/ 087 9783282\n\n**5 a side: U9 Saturday - Boys - Year Born 2013**\t\t\n\nPaddy Egan | 087 7918725\n\n**5 a side: U9 Saturday - Boys - Year Born 2013**\n\nDamien Terry | 087 9447335\n\n**7 a side: U10A Saturday - Boys - Year Born 2012**\t\n\nAlan Adamson\t| 087 2165215\n\n**7 a side: U10C Saturday - Boys - Year Born 2012**\n\nDeclan Grant | 087 6436701\t\n\n**7 a side: U10E Saturday - Boys - Year Born 2012**\n\nRob Groarke | 087 6622137"
 ---
 
