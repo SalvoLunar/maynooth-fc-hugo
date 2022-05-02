@@ -12,45 +12,18 @@ images:
   - imageUrl: /img/screenshot-2020-02-09-at-19.09.55.png
   - imageUrl: /img/screenshot-2020-02-09-at-22.12.39.png
   - imageUrl: /img/68499078_2628361207227027_1045693106281775104_n.jpg
-welcome: Codes of Principles & Best Practice
+welcome: Maynooth Town FC Astro Project kicks off!
 blurb: >-
-  Maynooth Town FC is a community club that supports the opportunity for all
-  young players in our community to participate in, develop their skills and
-  enjoy soccer at a level appropriate to their ability.  
+  We are delighted to announce that construction of our new full size, state of
+  the art astro pitch started on Monday 25th April. At a cost of over €600k we
+  can now look forward to a top class playing facility next season. To support
+  this exciting venture we are hosting a series of fundraising events, outlined
+  below, for all our families and members to get involved in. It is going to a
+  be a really busy and exciting few months for our club… 
 
 
-  The Club have drawn up a Code of Principles & Best Practice document to
-  outline what we regard as best practice for our club. We invite everyone to
-  become familiar with these principles. 
-
-
-  If your son or daughter is interested in playing soccer, please contact the
-  Club Secretary, Miriam Murphy, on 086-1060654 or by email:
-  miriammtfc@outlook.com
-
-
-  **Download the Code of Principles & Best Practice document**
-  [**here**](https://raw.githubusercontent.com/SalvoLunar/maynooth-fc-hugo/master/site/static/img/mtfc-code-of-principles-and-best-practice-nov2020.pdf)**.**
-
-
-  **MTFC Executive | November 2020**
-about: Q&A Evening with Manchester Utd. Legends | 25 November
-about_content: >-
-  Book your tickets to attend our Q&A evening with Wes Brown and Brian McClair!
-
-
-  In partnership with the Glenroyal Hotel, MTFC present an evening with these
-  two Manchester United legends. With 9 Premier League medals and 20 major
-  trophies between them, the pair will spend an evening in Maynooth sharing
-  their stories, craic and memories from their times at United. Pete Boyle, the
-  famous Manchester United song writer will MC the event and ensure we get the
-  best and worst stories from the legends.
-
-
-  **Book tickets**
-  [**here**](https://www.eventbrite.ie/e/manchester-united-legends-night-with-maynooth-town-fc-tickets-185727635357?aff=ebdssbdestsearch)**!**
-
-
-  ![](/img/mtfc-q-a-evening-with-manchester-united-legends.jpeg)
+  Come on the Town!
+about: Saturday 25th June | MTFC Festival of Football
+about_content: "The Manchester United Legends are coming to Maynooth Town! **Denis Irwin**, **David May**, **Lee Martin**, **Wes Brown** & **Lee Sharpe** have already been announced.  Don’t forget to keep an eye on our social media every Thursday for more player updates. It is going to be a really fantastic football event for club and community.\r\n\n\r\n\n**MTFC Family Zone**\r\n\nWe will host a family zone at Rathcoffey Road on the 25th with face painting, giant board games and lots fun activities for 4-12 year olds between 11:00am and 1:30pm as well as during the big game, for those attending the matches with younger children. Wristbands are €5 per child and may be purchased in advance from club coaches and on the day.\r\n\n\r\n\n**Meet & Greet Man United Legends**\r\n\nMeet & Greet with all the Man United Legends in the Glenroyal Hotel between 12:00pm and 1:30pm before the main event. Limited number of tickets available at €20 each and are now available at eventbrite.ie.\r\n\n\r\n\n**Play the Match | Maynooth Town v Man United Legends**\r\n\nIf you would like the opportunity to play either with or against the Man United Legends and enjoy a private post-match drink with the Legends, please register your interest ASAP with mtfcdevelopment@gmail.com\r\n\n\r\n\n**Watch the Match**\r\n\nIf you want to see the Man United Legends play on our home ground, Rathcoffey Road, please make sure you get your ticket to see the game. Tickets are €10 each (or €35 for a family of 4) and may be purchased [here via eventbrite](https://www.eventbrite.ie/e/maynooth-town-v-manchester-united-premier-league-legends-tickets-292278511897).\r\n\n\r\n\n**Gala Dinner Dance**\r\n\nThe festival will close with a club dinner dance at the Glenroyal Hotel 25th June from 7:45pm until late. Tickets will be going on sale shortly through each squad to ensure that every member gets opportunity to go!\r\n\n\r\n\nMembers of the MTFC Executive will be available at both our clubhouse on the Rathcoffey Road and at the MEC pitches over the coming weekends to update members on the astro development and the upcoming events. Please drop over to hear more and get involved. \r\n\n\r\n\n\n\n![](/img/mtfc-q-a-evening-with-manchester-united-legends.jpeg)"
 ---
 
